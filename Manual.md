@@ -113,31 +113,36 @@ Secret: Players must keep their abilities cards in hand secret until they are pl
 
 Hand Limit: Each player has a hand limit of 3 ability cards. If after drawing new Ability Cards your hand size has exceeded the limit, you must immediately discard down to 3 cards. You may select the card(s) to discard.
 
-## Game Concepts And Terms
+### Game Concepts And Terms (page 8)
 
-Active Player When it is your turn, you are the active player.
+#### Active Player (page 8)
+When it is your turn, you are the active player.
 
-Damage Damage is physical and mental injury to a crew member or an enemy, represented by damage tokens (the blood drop). If the storybook or a card says "-1 health," it means take 1 damage. When a crew member takes damage, place the indicated amount of damage tokens on the crew board.
+#### Damage (page 8)
+Damage is physical and mental injury to a crew member or an enemy, represented by damage tokens (the blood drop). If the storybook or a card says "-1 health," it means take 1 damage. When a crew member takes damage, place the indicated amount of damage tokens on the crew board.
 
 When you are instructed to "Restore health" to a crew member, remove the specified number of damage tokens.
 
 This symbol represents the amount of damage dealt by a crew member or enemy card in an attack.
 
-Health Health is the amount of damage a crew member can take and still function normally. If a crew member has damage equal to their health (known as having 0 health), they can no longer attack, participate in challenges, or activate any of their crew board abilities or ability cards until they regain at least 1 health. Thematically, at 0 health they are nearly unconscious, able to speak and move, but badly hurt.
+#### Health (page 8)
+Health is the amount of damage a crew member can take and still function normally. If a crew member has damage equal to their health (known as having 0 health), they can no longer attack, participate in challenges, or activate any of their crew board abilities or ability cards until they regain at least 1 health. Thematically, at 0 health they are nearly unconscious, able to speak and move, but badly hurt.
 
 If all crew members have 0 health, you are defeated (see "Defeat" on pg. 28).
 
 A crew member's damage cannot exceed their health—any excess must be placed on another crew member.
 
-Command Command represents your crew's readiness and ability to work together. You must pay command to activate crew abilities and adventure cards, to equip ability cards to crew members, and to help other players on their turn by using your crew members.
+#### Command (page 8)
+Command represents your crew's readiness and ability to work together. You must pay command to activate crew abilities and adventure cards, to equip ability cards to crew members, and to help other players on their turn by using your crew members.
 
-Draw Fate Draw a card from the ability card deck and check the number in the top left corner. Immediately discard this card. You draw fate for skill challenges, attacks, and more. Designer's Note: In this deck, 1s and 6s are half as common as the other numbers.
+#### Draw Fate (page 8)
+Draw a card from the ability card deck and check the number in the top left corner. Immediately discard this card. You draw fate for skill challenges, attacks, and more. Designer's Note: In this deck, 1s and 6s are half as common as the other numbers.
 
-## Fate Number
+#### Challenge (page 8)
+You may be faced with challenges you must overcome, usually when reading from the storybook but also when you draw event cards. It involves selecting crew members to participate and drawing fate in an effort to reach or exceed a specified challenge number (see pg. 19).
 
-Challenge You may be faced with challenges you must overcome, usually when reading from the storybook but also when you draw event cards. It involves selecting crew members to participate and drawing fate in an effort to reach or exceed a specified challenge number (see pg. 19).
-
-Fatigue When crew members participate in challenges, they gain fatigue, represented by a fatigue token. Each crew member can hold up to 2 fatigue tokens.
+#### Fatigue (page 8)
+When crew members participate in challenges, they gain fatigue, represented by a fatigue token. Each crew member can hold up to 2 fatigue tokens.
 
 Each fatigue token is double-sided. If a crew member has only 1 token, place the blank side face up. If a crew member has a 2nd fatigue token, it should have the "-1 damage" side face up. This causes the crew member to deal -1 damage in combat.
 
@@ -145,15 +150,19 @@ A crew member with 2 fatigue tokens cannot participate in challenges (pg. 19), b
 
 You can remove fatigue mainly by cooking recipes or performing a port action.
 
-Limited Components All components are limited, which means that if you run out, you cannot gain or use more, with one exception: damage tokens. If you run out of damage tokens, use something else to keep track.
+#### Limited Components (page 8)
+ All components are limited, which means that if you run out, you cannot gain or use more, with one exception: damage tokens. If you run out of damage tokens, use something else to keep track.
 
-Region A region of the sea on the atlas. Regions are separated by dotted lines, land, the spiral binding of the atlas, and the edge of the page. The ship cannot reside on or move through land, only sea regions.
+#### Region (page 9)
+A region of the sea on the atlas. Regions are separated by dotted lines, land, the spiral binding of the atlas, and the edge of the page. The ship cannot reside on or move through land, only sea regions.
 
-Ship Damage When instructed to take ship damage, draw 1 ability card per damage, then place a cube on the room(s) with a matching fate number. Each ship room can only take 2 damage and the hull can take 1 damage. If a room already has 2 damage, you may choose where to place the damage. If a room has 2 damage, it cannot be used during the ship action phase. If the ship ever has 11 damage cubes, you are defeated (see "Defeat" on pg. 28).
+#### Ship Damage (page 9)
+When instructed to take ship damage, draw 1 ability card per damage, then place a cube on the room(s) with a matching fate number. Each ship room can only take 2 damage and the hull can take 1 damage. If a room already has 2 damage, you may choose where to place the damage. If a room has 2 damage, it cannot be used during the ship action phase. If the ship ever has 11 damage cubes, you are defeated (see "Defeat" on pg. 28).
 
 Repair refers to removing ship damage. If you "repair 2," you remove any 2 damage from the ship.
 
-Skills There are 5 types of crew skills in the game. Most crew members start with 2 to 4 skills.
+#### Skills (page 9)
+There are 5 types of crew skills in the game. Most crew members start with 2 to 4 skills.
 
 Strength: Used when anything requires physical effort or endurance.
 
@@ -165,9 +174,11 @@ Craft: Used when something must be built, repaired, taken apart, maintained, or 
 
 Cunning: Used when you must convince, lead, speak, deceive, devise, or plot.
 
-Supply When the game refers to "the supply," it means the components that you currently do not own. For example, if you are instructed to "return a meat token to the supply," you take the token from your ship board and return it to the pile of components off to the side of the board. When you are told to "pay," "discard," or "remove" something, it means to return it to the supply.
+#### Supply (page 9)
+When the game refers to "the supply," it means the components that you currently do not own. For example, if you are instructed to "return a meat token to the supply," you take the token from your ship board and return it to the pile of components off to the side of the board. When you are told to "pay," "discard," or "remove" something, it means to return it to the supply.
 
-Status There are five types of status tokens in the game. When a crew member gains a status, place the appropriate token on their crew board. Each crew member can have multiple status tokens, but may not have more than one copy of each status. Crew members gain status tokens in stories and combat. Crew members can remove status tokens through character and adventure card abilities.
+#### Status (page 9)
+There are five types of status tokens in the game. When a crew member gains a status, place the appropriate token on their crew board. Each crew member can have multiple status tokens, but may not have more than one copy of each status. Crew members gain status tokens in stories and combat. Crew members can remove status tokens through character and adventure card abilities.
 
 - Venom: The crew member takes 1 damage at the start of each player's turn.
 
@@ -179,9 +190,11 @@ Status There are five types of status tokens in the game. When a crew member gai
 
 - Low Morale: You must pay 1 extra command to use the crew member in skill challenges.
 
-Journey Log When you start a new campaign, write your name and date on a new journey log sheet. You use this sheet to track certain information when you save your game during the campaign (and also as a memento of your journey). You can also keep notes on the world map to help you remember important information. You can use world map notes from previous campaigns when you play a new campaign.
+#### Journey (page 9)
+Log When you start a new campaign, write your name and date on a new journey log sheet. You use this sheet to track certain information when you save your game during the campaign (and also as a memento of your journey). You can also keep notes on the world map to help you remember important information. You can use world map notes from previous campaigns when you play a new campaign.
 
-World Map and The Tides of Ruin Expansion In Sleeping Gods, the atlas includes 9 maps to explore, but if you examine the map on your journey log, you can see that this is only part of the game world. These extra maps and locations are included in the Tides of Ruin expansion.
+#### World Map and The Tides of Ruin Expansion (page 9)
+In Sleeping Gods, the atlas includes 9 maps to explore, but if you examine the map on your journey log, you can see that this is only part of the game world. These extra maps and locations are included in the Tides of Ruin expansion.
 
 ## Turn Overview
 
