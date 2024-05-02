@@ -494,21 +494,21 @@ He may activate one of his adventure cards that lets him redraw fate. He places 
 
 Cid succeeds, so he can ignore the consequences of -8 health. He continues reading, turning to paragraph 16.9.
 
-## Combat
+## Combat (page 21)
 
-Combat Setup When a story section ends with the word COMBAT, followed by a list of numbers, you must start a combat and defeat enemies before you can continue your story. Follow these steps to set up combat.
+### Combat Setup (page 21)
+When a story section ends with the word COMBAT, followed by a list of numbers, you must start a combat and defeat enemies before you can continue your story. Follow these steps to set up combat.
 
 - Retrieve the listed enemy cards from the enemy deck. The deck should be in order, face down. Look through the cards until you find the listed numbers. (Do not look at the fronts of the other cards in the deck, only the backs.) Shuffle the cards you just retrieved and place them face up in a row in the center of the table, without any space between cards. (You may place these on the atlas if there isn't room on the table.)
-
-- Retrieve the 4 combat action tokens and distribute them among players. •	 Four players: each player gets 1 token. •	 Three players: the active player gets 2 tokens,
-
-the other players each get 1.
-
-- Two players: each player gets 2 tokens. •	 One player: the player gets all 4 tokens.
+  - Retrieve the 4 combat action tokens and distribute them among players. 
+  - Four players: each player gets 1 token. 
+  - Three players: the active player gets 2 tokens, the other players each get 1.
+  - Two players: each player gets 2 tokens. •	 One player: the player gets all 4 tokens.
 
 - Place each crew member's synergy token on their crew board.
 
-Combat Rounds Start the first combat round and continue with combat rounds until either all enemy cards are defeated or all crew members have 0 health. A combat round consists of the following:
+### Combat Rounds (page 21)
+Start the first combat round and continue with combat rounds until either all enemy cards are defeated or all crew members have 0 health. A combat round consists of the following:
 
 ATTACK AND COUNTERATTACK: Players may use their combat action tokens in any order. Each attack action is (often) followed by a counterattack from a targeted enemy. Attacking is explained in further detail below (pg. 23).
 
