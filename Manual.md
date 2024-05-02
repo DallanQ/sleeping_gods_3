@@ -857,7 +857,7 @@ To save the game and pack up mid-campaign, follow these steps:
 
 12. Decide who will be the first player. Give the starting player the captain token. Give each player their hand of ability cards and command tokens according to the most recent save line on the journey log (player 1, player 2, etc).
 
-## Adding & Removing Players
+### Adding & Removing Players (page 33)
 
 You can add or remove players at the end of any turn.
 
@@ -873,7 +873,7 @@ Follow these steps to remove a player:
 
 NOTE: Remember to turn the ship board to the correct side depending on the number of players in the game.
 
-resetTing THe Game for a new Campaign
+### Resetting THe Game for a new Campaign (page 33)
 
 To reset the game for a new campaign, follow these steps:
 
