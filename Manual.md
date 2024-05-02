@@ -196,31 +196,37 @@ Log When you start a new campaign, write your name and date on a new journey log
 #### World Map and The Tides of Ruin Expansion (page 9)
 In Sleeping Gods, the atlas includes 9 maps to explore, but if you examine the map on your journey log, you can see that this is only part of the game world. These extra maps and locations are included in the Tides of Ruin expansion.
 
-## Turn Overview
+## Turn Overview (page 10)
 
 This is a summary of the steps you take on your turn. The steps are explained in detail on pgs. 10-16.
 
 Starting with the first player, players take turns in clockwise order. Follow these steps on your turn:
 
-1. Ship Action Choose a ship action. Move the ship action figure to one of the five ship rooms and apply the effect. You must move the ship action figure to a new room each turn (you cannot repeat the same room two turns in a row). (See pg. 10-11.)
+1. Ship Action: Choose a ship action. Move the ship action figure to one of the five ship rooms and apply the effect. You must move the ship action figure to a new room each turn (you cannot repeat the same room two turns in a row). (See pg. 10-11.)
 
-3. Two Actions Perform two actions. Available actions are listed on the bottom of the ship board. You may perform the same action twice in one turn. These actions are explained starting on pg. 13.
+2. Event: Draw an event card and read the effect. Events may present a choice, a challenge, consequence, or other effect. (For challenges, see pg. 19.) Resolve the event card before continuing your turn. (For event card rules, see pg. 12.)
 
-4. End of Turn After you have performed your two actions, pass the captain token to the player on the left. That player now starts their turn.
+3. Two Actions: Perform two actions. Available actions are listed on the bottom of the ship board. You may perform the same action twice in one turn. These actions are explained starting on pg. 13.
 
-2. Event Draw an event card and read the effect. Events may present a choice, a challenge, consequence, or other effect. (For challenges, see pg. 19.) Resolve the event card before continuing your turn. (For event card rules, see pg. 12.)
+4. End of Turn: After you have performed your two actions, pass the captain token to the player on the left. That player now starts their turn.
 
-Move the ship action figure to one of the five ship rooms and apply the effect. • The five ship rooms include: Bridge, Galley,
+## Player Turn (page 10)
 
-Deck, Quarters, & Sick Bay. (The Hull has no action.) Ship action effects can be applied in any order.
+### 1. Ship Action (page 10)
 
-- • You may never give command tokens/ ability cards to other players. If the supply of command tokens runs out, you cannot gain any until more tokens are returned to the supply. If the ability deck runs out, shuffle the discard pile to make a new ability deck. If you cannot take an action because all rooms have 2 damage, move the ship action figure to one of the rooms, but take no ship action.
+Move the ship action figure to one of the five ship rooms and apply the effect. 
 
-Ship room effects vary depending on the number of players in the game. When a room shows two numbers over the command token symbol, check the player count symbol at the top right corner of the ship board. This tells you what amount of command to take (depending on the number of players).
+- The five ship rooms include: Bridge, Galley, Deck, Quarters, & Sick Bay. (The Hull has no action.) 
+
+- Ship action effects can be applied in any order.
+
+- You may never give command tokens/ ability cards to other players. If the supply of command tokens runs out, you cannot gain any until more tokens are returned to the supply. If the ability deck runs out, shuffle the discard pile to make a new ability deck. 
+
+- If you cannot take an action because all rooms have 2 damage, move the ship action figure to one of the rooms, but take no ship action.
+
+- Ship room effects vary depending on the number of players in the game. When a room shows two numbers over the command token symbol, check the player count symbol at the top right corner of the ship board. This tells you what amount of command to take (depending on the number of players).
 
 When playing with 3-4 players, use the side of the ship board that has this symbol.
-
-## Player Turn 1. Ship Action
 
 On this side of the ship board, the Quarters room gives 4/5 command tokens. If playing with 3 players, you gain 4 command when you use this room, and 5 command if playing with 4 players. Also, you return 3 command on cards to the supply.
 
