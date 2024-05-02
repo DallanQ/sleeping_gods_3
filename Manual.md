@@ -601,25 +601,29 @@ Damage: This weapon deals 2 damage when it hits. Extra damage: You may discard 1
 
 5. Enemy counterattacks.
 
-## End Of Round
+### End Of Round (page 24)
 
-END OF ROUND Any enemies that remain after all players have used their combat action tokens now attack the crew and activate their end of round abilities (indicated by the hourglass symbol). Note: Players can choose to skip to the end of round phase even if they haven't used all of their combat action tokens in a round.
+#### END OF ROUND (page 24) 
+Any enemies that remain after all players have used their combat action tokens now attack the crew and activate their end of round abilities (indicated by the hourglass symbol). Note: Players can choose to skip to the end of round phase even if they haven't used all of their combat action tokens in a round.
 
-Each enemy attacks one at a time and in order from left to right, dealing damage to crew members. • The active player decides which crew members
+Each enemy attacks one at a time and in order from left to right, dealing damage to crew members. 
 
-are attacked by each enemy card.
+- The active player decides which crew members are attacked by each enemy card.
 
 - Damage from one enemy card must all go to one crew member. Status tokens can go to any crew member.
 
-- Do not apply any weapon's block at this time. You can, however, apply block from adventure cards, crew abilities, or block that applies to "end of round enemy attack." If a crew member runs out of health while taking damage, any remaining damage must be dealt to another crew member, and so on.
+- Do not apply any weapon's block at this time. You can, however, apply block from adventure cards, crew abilities, or block that applies to "end of round enemy attack."
 
-End of Round Example The Skeletal Warrior and the Flying Eye enemy cards remain after the players have placed all 4 attack tokens. They have taken no damage, so all of their attacks are active. The Skeletal Warrior now attacks, dealing 2 damage to Mac. Next, the Flying Eye attacks, dealing 3 damage to Laurent and giving Marco a madness token.
+- If a crew member runs out of health while taking damage, any remaining damage must be dealt to another crew member, and so on.
+
+#### End of Round Example (page 24)
+The Skeletal Warrior and the Flying Eye enemy cards remain after the players have placed all 4 attack tokens. They have taken no damage, so all of their attacks are active. The Skeletal Warrior now attacks, dealing 2 damage to Mac. Next, the Flying Eye attacks, dealing 3 damage to Laurent and giving Marco a madness token.
 
 Now players reclaim their combat action tokens and a new combat round begins.
 
-This end of round enemy ability causes a crew member to gain 1 madness.
+<!-- This end of round enemy ability causes a crew member to gain 1 madness. -->
 
-## Other Combat Rules
+### Other Combat Rules (page 24)
 
 Missing: If you miss, you still get to deal 1 damage, after the enemy counterattack (you deal 0 damage in this case if you have 2 fatigue). Apply weapon block as normal to this counterattack. Abilities that increase attack damage can be used even if you miss.
 
@@ -635,13 +639,15 @@ Double or Triple Hearts: Some enemy hearts have a number 2 or 3 on them. These h
 
 Crew Member at 0 Health: If a crew member who misses reaches 0 health during the enemy counterattack, they still get to deal 1 damage. The crew member can continue to use their abilities until the end of their combat action. After this, the crew member cannot participate in challenges or combat until at least 1 health has been restored.
 
-## Synergy Tokens
+### Synergy Tokens (page 25)
 
-## Synergy Tokens
+#### Synergy Tokens (page 25)
 
-- At the start of each battle, make sure that
+- At the start of each battle, make sure that each crew member's synergy token is on the matching crew board. Note: when not in combat, these tokens do not need to be on the crew boards and you may place them to the side to save space. 
 
-each crew member's synergy token is on the matching crew board. Note: when not in combat, these tokens do not need to be on the crew boards and you may place them to the side to save space. If a crew member ever places damage on a square with a synergy point (the red diamond), they place their synergy token on a different crew board. If a crew member has a synergy token from a different crew member on their board, they may return it to the matching board in order to use the ability listed on the token (this is called "activating" the synergy token). Synergy tokens can be activated after drawing fate.
+- If a crew member ever places damage on a square with a synergy point (the red diamond), they place their synergy token on a different crew board. 
+
+- If a crew member has a synergy token from a different crew member on their board, they may return it to the matching board in order to use the ability listed on the token (this is called "activating" the synergy token). Synergy tokens can be activated after drawing fate.
 
 - Crew members cannot use the ability of their own synergy tokens.
 
@@ -649,7 +655,7 @@ each crew member's synergy token is on the matching crew board. Note: when not i
 
 Synergy token abilities are explained in the box to the right.
 
-## Synergy Point
+<!-- ## Synergy Point -->
 
 Audrie: When activated, the crew member deals +1 damage during their attack.
 
@@ -669,21 +675,24 @@ Marco: When activated, the crew member can deal an extra 2 damage during an atta
 
 Rafael: When activated, gain 2 block.
 
-## Combat Examples
+### Combat Examples (page 26)
 
-Attack Example 1 Jamey attacks the Scorpion Squid with Laurent using the Club. He places a combat action token on Laurent, then he draws fate. The result is 5. He has +0 accuracy, so 5+0=5, equal to the Scorpion Squid's defense of 5. The attack hits. The club deals 2 damage. Jamey decides to discard his equipped Triage card to gain 1 extra damage, for a total of 3. He must place all of the damage from this attack on adjacent squares. He chooses to use 2 of the damage to cover the bottom left square (he must use 2 because it is a double heart). He uses the third damage to cover the middle-left square.
+#### Attack Example 1 (page 26)
+Jamey attacks the Scorpion Squid with Laurent using the Club. He places a combat action token on Laurent, then he draws fate. The result is 5. He has +0 accuracy, so 5+0=5, equal to the Scorpion Squid's defense of 5. The attack hits. The club deals 2 damage. Jamey decides to discard his equipped Triage card to gain 1 extra damage, for a total of 3. He must place all of the damage from this attack on adjacent squares. He chooses to use 2 of the damage to cover the bottom left square (he must use 2 because it is a double heart). He uses the third damage to cover the middle-left square.
 
 The Scorpion Squid then counterattacks. It deals 2 basic damage plus the 1 uncovered damage ability on the bottom right square. 2+1=3 damage. Laurent's club gives 2 block, reducing the damage by 2, so Laurent takes 1 damage. Jamey places 1 damage token on Laurent's crew board.
 
-Attack Example 2 Jamey places a second attack action token on Laurent so he can attack the Scorpion Squid a second time. He draws fate 6. He has +0 accuracy, so the total is 6, higher than the Scorpion Squid's defense of 5. The attack hits, dealing 2 damage. Jamey places the damage on the bottom right square and the middle right square. Covering the middle right square means that the Scorpion Squid's end of round ability, "Weaken," will not activate at the end of the combat round. There is also a synergy point on that square, which means that Laurent's synergy token can be placed on another crew board. Jamey places the synergy token on Audrie's crew board.
+<!-- ## Laurent'S 1St Attack -->
+
+#### Attack Example 2 (page 26)
+Jamey places a second attack action token on Laurent so he can attack the Scorpion Squid a second time. He draws fate 6. He has +0 accuracy, so the total is 6, higher than the Scorpion Squid's defense of 5. The attack hits, dealing 2 damage. Jamey places the damage on the bottom right square and the middle right square. Covering the middle right square means that the Scorpion Squid's end of round ability, "Weaken," will not activate at the end of the combat round. There is also a synergy point on that square, which means that Laurent's synergy token can be placed on another crew board. Jamey places the synergy token on Audrie's crew board.
 
 The Scorpion Squid now counterattacks. Because a damage token covers the bottom right square, the Squid deals only 2 damage. Laurent's club gives 2 block, so he takes 0 damage.
 
-## Laurent'S 1St Attack
+<!-- ## Laurent'S 2Nd Attack -->
 
-## Laurent'S 2Nd Attack
-
-Combat Round Example Cid and Zoey are attacked by a Skeletal Warrior, a Flying Eye, and an Infernal Jackal. They start the first combat round. They each have two combat action tokens.
+#### Combat Round Example (page 27)
+Cid and Zoey are attacked by a Skeletal Warrior, a Flying Eye, and an Infernal Jackal. They start the first combat round. They each have two combat action tokens.
 
 Cid goes first. He places his combat action token on Gregory and chooses to attack the Skeletal Warrior. He draws fate 5 and adds the number to Gregory's accuracy of +2, for a total of 7, equal to or greater than the skeleton's defense of 5. He then places 2 damage tokens on the skeleton, covering a heart and a blank square. The skeleton then immediately counterattacks, dealing 2 damage (1 basic +1 uncovered bonus damage).
 
@@ -695,21 +704,22 @@ Cid and Zoey then reclaim their combat action tokens and a new combat round begi
 
 For more details about specific combat and enemy abilities, see pg. 35.
 
-Remember: Return enemy cards to the enemy deck in order.
+<!-- Remember: Return enemy cards to the enemy deck in order. -->
 
-Synergy Token Example Rafael places damage on the top right square and the middle right square on the Flying Eye. Because the middle right square has a synergy point icon, Rafael places his synergy token on a different crew board, this time on Gregory's board.
+#### Synergy Token Example (page 27)
+Rafael places damage on the top right square and the middle right square on the Flying Eye. Because the middle right square has a synergy point icon, Rafael places his synergy token on a different crew board, this time on Gregory's board.
 
 Gregory now attacks the flying eye. He misses, so the flying eye counterattacks first, dealing 3 damage. Gregory activates Rafael's synergy token and gains +2 block so that he can ignore 2 of the damage. He returns the token to Rafael's crew board.
 
-## Other Rules
+## Other Rules (page 28)
 
-## Quest Cards
+### Quest Cards (page 28)
 
 When the storybook says "Gain quest x," retrieve the matching quest card from the deck and place it face up near the atlas. (Keep all other quests secret and in order.)
 
 When the storybook says "Lose quest x," or "Complete quest x," place the specified card in the used quest box. Once quests are in this box, you cannot retrieve them (unless you are reseting the game for a new campaign).
 
-## Keywords
+### Keywords (page 28)
 
 Sometimes, a story will require you to have a keyword in order to read it, or you will need a specific keyword to make a choice.
 
@@ -719,11 +729,19 @@ If a story paragraph starts with, If keyword X, turn to X, then you must follow 
 
 If a choice says Requires keyword X, it means that you must have a specific keyword to choose it. Even if you have the specified keyword, you are not forced to select that choice. You may select another choice.
 
-Active Quest Symbol: This means that this quest is an active quest and you can travel somewhere to complete it. Quest cards without this symbol generally only need to be referenced when you check to see if you have a specific keyword.
+<!-- Active Quest Symbol: This means that this quest is an active quest and you can travel somewhere to complete it. Quest cards without this symbol generally only need to be referenced when you check to see if you have a specific keyword.
 
-## Defeat
+Quest Description
 
-Your main goals in Sleeping Gods are to find totems and survive the dangers of the Wandering Sea. As you journey, there are a number of ways that you can meet defeat. Defeat means something different depending on the mode you are playing (normal or brutal). There are two ways you can be defeated: • All crew member health is reduced to 0. • The ship has 11 damage.
+Keyword
+
+Quest Card Number -->
+
+### Defeat (page 28)
+
+Your main goals in Sleeping Gods are to find totems and survive the dangers of the Wandering Sea. As you journey, there are a number of ways that you can meet defeat. Defeat means something different depending on the mode you are playing (normal or brutal). There are two ways you can be defeated: 
+- All crew member health is reduced to 0. 
+- The ship has 11 damage.
 
 If playing normal mode, the game is more forgiving when you are defeated. In story terms, if crew members' health is reduced to 0, the crew somehow escapes, wandering back to port, but it takes days. If the ship takes 11 damage, the crew barely keeps her afloat, limping back to port for repairs, but they lose quite a bit of time doing so.
 
@@ -737,13 +755,7 @@ If playing brutal mode, the game is more realistic, ending in complete failure w
 
 Make sure to mark any totems you found on your journey on the game achievement sheet. Write down your final score on your journey log (see pg. 34).
 
-## Quest Description
-
-Keyword
-
-Quest Card Number
-
-## Adventure Cards
+### Adventure Cards (page 29)
 
 Adventure cards represent the people, equipment, knowledge, and totems you find on your journey. When you gain an adventure card, place it near the other adventure cards you own, face up near the ship board. You can use the abilities on these cards by placing command tokens on them (except weapons,
 
