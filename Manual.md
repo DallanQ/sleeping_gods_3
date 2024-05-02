@@ -963,11 +963,12 @@ Weaken: This activates at the end of each combat round. A crew member gains 1 we
 
 1 Ship Damage: This activates at the end of each combat round. The ship takes 1 damage. Draw fate to determine which rooms are hit.
 
-## Achievements
+### Achievements (page 36)
 
 Whenever you find a totem, mark the appropriate box on the achievement sheet. When you complete various campaign endings, mark the specified endings boxes on the achievement sheet. As you discover totems and endings, you gain "unlocked cards".
 
-Unlocked Cards Unlocked cards are specific cards in the quest deck. Mark the unlocked cards you achieve when you have the specified number of totems/endings.
+#### Unlocked Cards (page 36)
+Unlocked cards are specific cards in the quest deck. Mark the unlocked cards you achieve when you have the specified number of totems/endings.
 
 Examples: To gain the unlocked cards "quests 169-170," you would need to have discovered a minimum of 4 totems/endings. To gain the "quests 167-168" unlocked cards, you would need to have discovered a minimum total of 7 totems/endings.
 
@@ -1015,25 +1016,37 @@ The words "materials" and "vegetables" are short for "materials token" and "vege
 
 - The further you venture from the starting region, the harder things get. If you are having trouble surviving, try to obtain a few useful adventure cards and buy one or two level cards before venturing to a new map.
 
-## Crew Board Suggested Layout
+### Crew Board Suggested Layout (page 39)
 
 Place equipped ability cards in the top two slots. (This is to remind you that you may not equip more than 2 ability cards per crew member.)
 
-## Equipped Weapon Cards
+>
+
+Equipped Weapon Cards
+
+>
 
 Place level cards below equipped ability cards, like this (unless there are no equipped ability cards, in which case you can place them directly beneath the crew board). An easy way to tell ability and level cards apart at a glace: level cards have a yellow strip on the bottom and ability cards have a turquoise strip.
 
-Resources that each player does not share:
+>
 
-- Their Crew Boards • Ability Cards in Hand • Their Command Tokens • Their Own Combat Action Token(s)
+### Rule reminder: what players share (page 39)
+
+#### Resources that each player does not share: (page 39)
+
+- Their Crew Boards 
+- Ability Cards in Hand 
+- Their Command Tokens 
+- Their Own Combat Action Token(s)
 
 Players cannot give each other ability cards in hand, but there are some exceptions: Players can equip their ability cards in hand to other players' crew members. Also, any player can discard ability cards from hand to add skill to a challenge on another players' turn.
 
-## Resources That All Players Share:
+#### Resources That All Players Share: (page 39)
 
-- Food • Coins • Materials • Adventure Cards
-
-rule reminder: what players share
+- Food 
+- Coins 
+- Materials 
+- Adventure Cards
 
 Attack Damage: The amount of damage tokens dealt by a crew member or enemy.
 
@@ -1049,6 +1062,8 @@ XP Cost: Experience points you must pay to buy this card. (Pg. 16)
 
 Flying: While uncovered, this enemy has +1 defense vs. weapons without the "ranged" attribute.
 
+## Icons (page 40)
+
 ## Remove 1 Frightened
 
 ## Remove 1 Madness
@@ -1056,8 +1071,6 @@ Flying: While uncovered, this enemy has +1 defense vs. weapons without the "rang
 ## Remove 1 Venom
 
 ## Remove 1 Weakened
-
-## Icons
 
 ## Totem
 
