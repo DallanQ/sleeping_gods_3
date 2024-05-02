@@ -91,15 +91,23 @@ Weapon Stats: Accuracy, Damage, Block.
 
 > Weapon stats: accuracy, damage, and block appear in the lower-right of the crew board.
 
-## Ability Card
+### Ability Card (page 7)
 
 This card has a fate number of 5. When you "draw fate," you draw an ability card and use this number.
 
+> The Fate Number appears at the top-left of the card.
+
 To equip this card to a crew member, you must pay 2 command.
+
+> The commands for equipping the card to a crew member are on the top-right.
 
 This card has a savvy skill symbol. When equipped, it gives a crew member +1 savvy.
 
+> The symbol for the savvy skill appears on the left-hand side, halfway up the card.
+
 When this card is equipped, it gives the crew member the "Triage" ability. It costs no command to use once equipped.
+
+> The visual representation of the "Triage" ability is in the middle at the bottom of the card.
 
 Secret: Players must keep their abilities cards in hand secret until they are played. They may not show them or give them to other players.
 
