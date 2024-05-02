@@ -268,15 +268,15 @@ After you have drawn all cards from the event deck, finish the current player's 
 
 When you draw this event, place it face up near the ship board. The effect applies until you are directed to discard the card. At the end of each player's turn, that player may attempt a CRAFT 6 challenge. If the challenge is successful, discard this card.
 
->
+> 
 
 When you draw this event, choose to take 1 ship damage or attempt a STRENGTH 6 challenge.
 
->
+> 
 
 When you draw this event, place it face up near the ship board. The "turn end" effect applies until you are directed to discard the card. As an action, you may attempt a STRENGTH 7 challenge to discard this card and the serpent token. Hunting Serpent Special Rule: For this event, if you turn to a new page of the atlas, place the serpent on the region your ship starts in.
 
->
+> 
 
 ### 3. Two Actions (page 13)
 
@@ -385,7 +385,8 @@ Command represents the crew's mental and physical readiness and their ability to
 
 You may spend command at any time, even on other players' turns (with some exceptions, as explained below). You may spend command to do the following:
 
-Equip an Ability Card Play an ability card from your hand to one of your crew members. This is known as "equipping an ability." This represents time that the crew member spends training and readying for adventure. Pay the command cost listed at the top right of the ability card to the supply. Then tuck the ability card beneath the bottom edge of the crew board so that the skill icon and any ability is showing.
+### Equip an Ability Card (page 17)
+Play an ability card from your hand to one of your crew members. This is known as "equipping an ability." This represents time that the crew member spends training and readying for adventure. Pay the command cost listed at the top right of the ability card to the supply. Then tuck the ability card beneath the bottom edge of the crew board so that the skill icon and any ability is showing.
 
 - Equip ability cards to any crew member, including the captain and other players' crew members.
 
@@ -397,11 +398,12 @@ Equip an Ability Card Play an ability card from your hand to one of your crew me
 
 - You may not equip an ability card in the middle of combat or in the middle of a challenge.
 
-## Command Tokens
+Command Tokens
 
 Pay 2 command to equip this ability card from your hand to Laurent.
 
-Activate Crew Ability You may pay command to activate one of your crew member's abilities. Place the required command on their crew board to indicate that they have used an ability, then gain the effects. You may not use another ability on this crew member until all command tokens have been removed from their crew board. (See pg. 34 for ability clarifications.)
+### Activate Crew Ability (page 18)
+You may pay command to activate one of your crew member's abilities. Place the required command on their crew board to indicate that they have used an ability, then gain the effects. You may not use another ability on this crew member until all command tokens have been removed from their crew board. (See pg. 34 for ability clarifications.)
 
 Activate Adventure Cards You may pay command to activate an adventure card ability. Place the required command on the adventure card to indicate you have used its ability, then gain the effects. You may not use this ability again until all command tokens have been removed from this adventure card. All players share ownership of adventure cards. ANY player can use adventure cards you own at any time, even to help another player in a challenge or combat.
 
@@ -413,33 +415,38 @@ Place 2 command on Laurent to gain 1 meat or to add 1 to his accuracy.
 
 Place 1 command on this card to gain 2 strength, 3 perception, or 1 block.
 
-Activate Ability Card Abilities Some ability cards require you to spend command to activate their ability after they have been equipped to a crew member. You do not need to place this command on the ability card (just return it to the supply). You may not spend command that has been placed on a crew board or adventure card.
+### Activate Ability Card Abilities (page 18)
+Some ability cards require you to spend command to activate their ability after they have been equipped to a crew member. You do not need to place this command on the ability card (just return it to the supply). You may not spend command that has been placed on a crew board or adventure card.
 
-Other Command Uses You may also spend command to: •	 Give another player your unused combat action
-
-## Token During Combat (Pg. 21).
+### Other Command Uses (page 18)
+You may also spend command to: 
+- Give another player your unused combat action
 
 - Have your crew members participate in a challenge on another player's turn (pg. 19).
 
 Important: Any time you must "pay" or "spend" command, return it to the supply unless you are using it to activate an ability on an adventure card or crew board. When activating an ability on an adventure card or crew board, place the command on the card/crew board.
 
-## Challenges
+## Challenges (page 19)
 
 A challenge is a test of skill that you must overcome. Each challenge is associated with one of the five crew skills: strength, cunning, savvy, perception, or craft.
 
 A basic challenge looks like this:
 
-## Strength 5 Fail: -3 Health
+ Strength 5 Fail: -3 Health
 
 In this example, you must achieve a total of 5 strength or higher. If you fail you will take the failure consequence.
 
 To overcome a challenge, follow these steps:
 
-1. Decide which of your crew members participate (from crew members that you control and Captain Sofi Odessa). Crew members with 2 fatigue cannot participate. You cannot use a crew member more than once per challenge. Place 1 fatigue token on each crew member that participates. If another player wants to use the crew members they control to participate in the challenge, they must pay 1 command. This cost is the same no matter how many crew members they use. They must also give each of their participating crew members 1 fatigue.
+1. Decide which of your crew members participate (from crew members that you control and Captain Sofi Odessa). Crew members with 2 fatigue cannot participate. You cannot use a crew member more than once per challenge. Place 1 fatigue token on each crew member that participates. 
+
+If another player wants to use the crew members they control to participate in the challenge, they must pay 1 command. This cost is the same no matter how many crew members they use. They must also give each of their participating crew members 1 fatigue.
 
 Example: Tom is the active player and chooses Captain Sofi Odessa to participate. Zoey decides to participate with two of her crew members, and she pays 1 command to do so.
 
 Determine the sum of the specified skills on participating crew members (which is usually 1 per crew member plus any relevant equipped ability cards they have) and move to the next step.
+
+2. Draw Fate: Draw a card from the ability deck and check the fate number in the top left corner of the card. Add the participating crew skill to this number. The resulting number is your total skill.
 
 3. You may now use crew abilities, adventure cards, and equipped ability cards to alter the outcomes of the fate draw by spending command to activate their abilities. Any player may also discard ability cards in hand to give +1 skill of the type specified on the card. Players may discard any number of ability cards.
 
@@ -447,11 +454,13 @@ Determine the sum of the specified skills on participating crew members (which i
 
 5. Discard the ability card used for "drawing fate."
 
-Pass the Challenge If you obtain a high enough skill number, ignore any listed failure consequences. Read the next line and follow the instructions.
+### Pass the Challenge (page 19)
+If you obtain a high enough skill number, ignore any listed failure consequences. Read the next line and follow the instructions.
 
-2. Draw Fate: Draw a card from the ability deck and check the fate number in the top left corner of the card. Add the participating crew skill to this number. The resulting number is your total skill.
 
-Failure If you fail, apply the consequences listed after the word "fail." These are some of the possible consequences:
+
+### Failure (page 20)
+If you fail, apply the consequences listed after the word "fail." These are some of the possible consequences:
 
 - X health: You must take crew damage. Damage must be applied to any crew members that participated first. The active player decides where to place damage. Example: Cid, Jamey, and Zoey achieve 8 skill, but they needed 9 to pass the challenge. The fail consequence is -9 health. They each participated with one of their crew members and decide to split the damage between them. Each crew member takes 3 damage.
 
@@ -459,7 +468,9 @@ Failure If you fail, apply the consequences listed after the word "fail." These 
 
 - Turn to X: Some fail consequences require you to turn to a different story number than if you had succeeded. You must turn to the specified "fail" story number (in italics), instead of the number listed on the next line (if any).
 
-- Gain Venom/Weakened/Frightened/ Madness/Low Morale: Place the appropriate token on one of your crew members. Place it on participating crew members first, if they don't already have the same status. (Remember that a crew member cannot have 2 of the same status token.) If a consequence lists a specific crew member, apply the effects to that crew board.
+- Gain Venom/Weakened/Frightened/ Madness/Low Morale: Place the appropriate token on one of your crew members. Place it on participating crew members first, if they don't already have the same status. (Remember that a crew member cannot have 2 of the same status token.)
+
+- If a consequence lists a specific crew member, apply the effects to that crew board.
 
 Sometimes there will be a "Failure Description" listed to describe what happened in the story. Read this only if you fail.
 
@@ -467,11 +478,13 @@ After applying the consequences for failing, if you were not instructed to turn 
 
 Designer's Note: Failure doesn't always mean that you aren't able to complete your task. Occasionally it does, but often it just means that you suffer injury or negative consequences in your effort to complete the task.
 
-Failure Example In the choice below, Tom achieves 7 skill, so he must apply the listed failure effects. He takes 7 damage. He also must place a venom token on one of his crew members. He reads the failure description and then turns to 54.6, continuing as normal.
+#### Failure Example (page 20)
+In the choice below, Tom achieves 7 skill, so he must apply the listed failure effects. He takes 7 damage. He also must place a venom token on one of his crew members. He reads the failure description and then turns to 54.6, continuing as normal.
 
 A. Search for their trail and follow it into the desert. PERCEPTION 10 Fail: -7 health & gain 1 venom. (The crew runs into and steps on a pack of sand-colored cobras.) (Turn to 54.6)
 
-Challenge Example Cid must complete this challenge:
+#### Challenge Example (page 20) 
+Cid must complete this challenge:
 
 A. Climb the vine-covered cliff. STRENGTH 7 Fail: -8 health (Turn to 16.9)
 
