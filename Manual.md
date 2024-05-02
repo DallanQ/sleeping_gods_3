@@ -354,7 +354,8 @@ Exception: If you purchase a weapon, equip it to one of your crew. Each crew mem
 
  Market Location
 
-Action: Visit a Port The ship must be in the same region as a port. You may then perform any or all of the following actions once. (Port actions are listed on the port board.)
+#### Action: Visit a Port (page 16)
+The ship must be in the same region as a port. You may then perform any or all of the following actions once. (Port actions are listed on the port board.)
 
 Inn: Pay 4 coins. Each crew member restores 2 health and removes 1 fatigue.
 
@@ -370,11 +371,11 @@ Keep track of XP you gain on your journey log sheet. Cross off or mark when you 
 
 When you buy a level card, immediately equip it to the associated crew member. You can equip an ability by tucking the card beneath the crew board so that the character image on the card is hidden. This card remains equipped for the remainder of the campaign. (Do not shuffle it into the ability deck at any time.) Level cards do not count toward the 2-card limit for equipped ability cards (see pg. 17). Once equipped, you may not discard them to use other abilities or to add to an attack.
 
-## Xp Cost
+ Xp Cost
 
-## Port
+ Port
 
-4. end of Turn
+### 4. end of Turn
 
 Pass the captain token to the player on the left. It is now that player's turn.
 
