@@ -496,7 +496,7 @@ Cid succeeds, so he can ignore the consequences of -8 health. He continues readi
 
 ## Combat (page 21)
 
-### Combat Setup (page 21)
+#### Combat Setup (page 21)
 When a story section ends with the word COMBAT, followed by a list of numbers, you must start a combat and defeat enemies before you can continue your story. Follow these steps to set up combat.
 
 - Retrieve the listed enemy cards from the enemy deck. The deck should be in order, face down. Look through the cards until you find the listed numbers. (Do not look at the fronts of the other cards in the deck, only the backs.) Shuffle the cards you just retrieved and place them face up in a row in the center of the table, without any space between cards. (You may place these on the atlas if there isn't room on the table.)
@@ -508,7 +508,7 @@ When a story section ends with the word COMBAT, followed by a list of numbers, y
 
 - Place each crew member's synergy token on their crew board.
 
-### Combat Rounds (page 21)
+#### Combat Rounds (page 21)
 Start the first combat round and continue with combat rounds until either all enemy cards are defeated or all crew members have 0 health. A combat round consists of the following:
 
 ATTACK AND COUNTERATTACK: Players may use their combat action tokens in any order. Each attack action is (often) followed by a counterattack from a targeted enemy. Attacking is explained in further detail below (pg. 23).
@@ -519,43 +519,67 @@ CHECK FOR VICTORY / START NEW ROUND: If any enemies remain, reclaim your combat 
 
 Giving Combat Action Tokens: Players can give each other unused combat action tokens, but each time a combat action token is given, one of the players (giving or receiving the combat action token) must pay 1 command.
 
-## Combat Icons
+### Combat Icons (page 22)
 
-## Enemy Name, Level, And Number
+#### Enemy Cards (page 22)
+
+Enemy Name, Level, And Number
+
+>
 
 Enemy Health: Each heart must be covered to defeat the enemy.
 
+>
+
 Synergy Point: Cover squares with synergy points to gain bonuses. See pg. 25.
 
-## Enemy Cards
+>
 
 Uncovered extra enemy attack damage.
 
+>
+
 Enemy Basic Attack Damage: This enemy deals 2 damage plus 1 or more for every uncovered attack symbol on their card.
 
-## Enemy Defense Number
+>
+
+Enemy Defense Number
+
+>
 
 The hourglass indicates an end of round ability. The "madness" symbol indicates a status token given to the crew during end of round damage.
 
-## Accuracy And Enemy Defense
+>
+
+#### Accuracy And Enemy Defense (page 22)
 
 Accuracy: Listed on crew weapons. Add to fate draw to attack an enemy's defense.
 
+>
+
 Enemy Defense: On enemy cards. Crew members must meet or exceed this number in order to hit an enemy.
 
-## Crew Weapon Layout
+>
+
+#### Crew Weapon Layout (page 22)
 
 Block: used only during enemy counterattack. Ignore 1 damage per block.
 
-## Accuracy
+>
+
+Accuracy
+
+>
 
 Damage: This weapon deals 2 damage when it hits. Extra damage: You may discard 1 equipped savvy card (but not a level card) from this crew member to deal +1 damage when you attack with this weapon. You may not discard a card from hand to deal the extra damage. The ability card must be equipped to discard it.
 
-## Attack And Counterattack
+>
 
-ATTACK and COUNTERATTACK 1. First, place a combat action token on a
+### Attack And Counterattack (page 23)
 
-crew member you control and choose one of their weapons to use. If a crew member already has 2 combat action tokens, they cannot attack again until the next combat round. (Remember: If you are the active player, you control Captain Odessa.)
+#### ATTACK and COUNTERATTACK (page 23)
+
+1. First, place a combat action token on a crew member you control and choose one of their weapons to use. If a crew member already has 2 combat action tokens, they cannot attack again until the next combat round. (Remember: If you are the active player, you control Captain Odessa.)
 
 2. Choose an enemy card to be the target of the attack.
 
@@ -564,6 +588,8 @@ crew member you control and choose one of their weapons to use. If a crew member
 4. If you hit, place a number of damage tokens on the enemy card equal to the damage on the weapon you used. When placing damage on an enemy card, you must place all damage from the same attack adjacently (think of it as one slash or hit). You cannot place damage diagonally, and each square can only hold one damage token. You cannot place damage on or skip a square that already has a damage token. The damage does not need to be placed in a straight line (you can change directions, make "T" shapes, etc.). If every square containing a heart symbol is covered, the enemy is defeated. Return the defeated card to the enemy deck and slide any remaining enemy cards together so that they are adjacent.
 
 5. COUNTERATTACK: If the enemy card you attacked was not defeated, it counterattacks immediately. It deals damage equal to its basic attack damage plus any uncovered damage symbols on its card. Place this damage on the crew member who attacked. Apply any block from the weapon you used, which lets you ignore 1 damage per 1 block. You may also use block from adventure cards and crew abilities at this time. If the crew member runs out of health, choose another crew member to take any remaining damage, and so on.
+
+---
 
 1. Place combat action token.
 
