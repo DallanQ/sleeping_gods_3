@@ -804,19 +804,20 @@ When you activate this card, you may remove 1 madness from any crew member OR ga
 
 Designer's Note: In the later stages of your campaign, it is likely that you will have twenty or more adventure cards. To keep the play area organized, you may wish to place some of the cards that you don't plan to use in a pile to the side. For example, you might own two recipes that are very similar except one of them is obviously better. In this case, you likely won't need the inferior recipe and can place it to the side, to clean up the play area.
 
-## Campaign
+### Campaign (page 31)
 
 When you start a new campaign, write the players' names on a new journey log sheet. Also mark if you are playing normal or brutal mode. Use this sheet throughout the campaign to write down when you gain experience points (XP) and when you need to save the game.
 
 On the back of the journey log is a map of the Wandering Seas. It is HIGHLY RECOMMENDED to write notes on this map to help you remember things, such as where you've been, where you want to return, and more. If you know that a certain location requires a keyword, you can write this down as well so you know where to return when you gain the keyword later.
 
-## Journey Log
+<!-- ## Journey Log -->
 
 Sleeping Gods can only support one campaign at a time. This is because you need to keep track of which quest cards you have completed, current crew health and status effects, adventure cards you own, and more.
 
 You may reset the campaign at any time by following the steps on pg. 33.
 
-Saving the Game At the start of any player's turn, you can decide to stop playing and save your game. You only need to do this if you want to pack up the game. This is simply a way to keep track of your progress so you can continue another time. A campaign takes around 10-20 hours to complete, so if you have a dedicated space to keep the game set up, you do not need to save the game.
+#### Saving the Game (page 31)
+At the start of any player's turn, you can decide to stop playing and save your game. You only need to do this if you want to pack up the game. This is simply a way to keep track of your progress so you can continue another time. A campaign takes around 10-20 hours to complete, so if you have a dedicated space to keep the game set up, you do not need to save the game.
 
 To save the game and pack up mid-campaign, follow these steps:
 
@@ -830,7 +831,9 @@ To save the game and pack up mid-campaign, follow these steps:
 
 5. Clean up the rest of the game components.
 
-Setting Up a Saved Game 1. Place the atlas in the center of the table and turn to the page of the location indicated on the most recent save line on the journey log sheet. Place the ship token in the listed region.
+#### Setting Up a Saved Game (page 32)
+
+1. Place the atlas in the center of the table and turn to the page of the location indicated on the most recent save line on the journey log sheet. Place the ship token in the listed region.
 
 2. Place the ship board near the atlas. Place the ship damage markers as indicated on the most recent save line of the journey log. Place any resources and coins from the campaign box on the ship board.
 
