@@ -247,31 +247,46 @@ Sick Bay: Draw 1 ability card and gain the specified number of command tokens. A
 
 ### 2. Event (page 12)
 
-Draw the top card of the event deck and read it aloud. Apply the effect or complete the challenge. • •
+Draw the top card of the event deck and read it aloud. Apply the effect or complete the challenge.
 
-Some event cards have multiple choices. In this case, choose one and apply the effect. If you draw an event card with the word "ongoing," place it face up near the ship board. Apply the effects until you're able to discard the card. (The way to discard the card is described on each card.)
+- Some event cards have multiple choices. In this case, choose one and apply the effect. 
+
+- If you draw an event card with the word "ongoing," place it face up near the ship board. Apply the effects until you're able to discard the card. (The way to discard the card is described on each card.)
 
 - You cannot ignore an event card. If it only has 1 challenge listed, you must complete it.
 
 Over the course of each campaign, you will go through the event deck 3 times. Each time you reach the end of the event deck, follow these instructions:
 
-First Time After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph 1 in the storybook instead of drawing an event card.
+#### First Time (page 12)
+After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph 1 in the storybook instead of drawing an event card.
 
-Second Time After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph 1.2 instead of drawing an event card.
+#### Second Time (page 12)
+After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph 1.2 instead of drawing an event card.
 
-Third Time After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph F1 instead of drawing an event card.
+#### Third Time (page 12)
+After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph F1 instead of drawing an event card.
 
 When you draw this event, place it face up near the ship board. The effect applies until you are directed to discard the card. At the end of each player's turn, that player may attempt a CRAFT 6 challenge. If the challenge is successful, discard this card.
 
+>
+
 When you draw this event, choose to take 1 ship damage or attempt a STRENGTH 6 challenge.
+
+>
 
 When you draw this event, place it face up near the ship board. The "turn end" effect applies until you are directed to discard the card. As an action, you may attempt a STRENGTH 7 challenge to discard this card and the serpent token. Hunting Serpent Special Rule: For this event, if you turn to a new page of the atlas, place the serpent on the region your ship starts in.
 
-## . Two Actions
+>
 
-Perform 2 of the following actions: travel, explore, market, or port. • You may choose the same action twice. • You may choose to skip an action to gain 1 command. You may do this for one or both actions.
+### 3. Two Actions (page 13)
 
-Action: Travel This action allows you to move the ship to a new region. Regions are separated by dotted lines, land, the spiral binding of the atlas, and the edge of the page. Whenever you travel, you perform a CRAFT challenge:
+Perform 2 of the following actions: travel, explore, market, or port. 
+- You may choose the same action twice.
+
+- You may choose to skip an action to gain 1 command. You may do this for one or both actions.
+
+#### Action: Travel (page 13)
+This action allows you to move the ship to a new region. Regions are separated by dotted lines, land, the spiral binding of the atlas, and the edge of the page. Whenever you travel, you perform a CRAFT challenge:
 
 First decide if you want one of your crew members (with a craft skill) to participate. If so, place 1 fatigue token on their crew board. (You may travel without using a crew member.)
 
@@ -281,7 +296,9 @@ Hazards: If you move into a region with a hazard, you must successfully complete
 
 Edge of the Map: If you reach the edge of the map and want to keep going in the same direction, you may do so as long as there is an icon indicating which page to turn to (although some pages are unavailable unless you have the Tides of Ruin expansion). Follow these steps:
 
-- First, remove the ship token from the map. •	 Turn to the page in the atlas as specified on the edge you are crossing and place your ship token on that page.
+- First, remove the ship token from the map. 
+
+- Turn to the page in the atlas as specified on the edge you are crossing and place your ship token on that page.
 
 - You always enter the map on the opposite side of where you left. For example, if you cross the northern edge of the atlas, you enter on the southern edge on the new page, etc. If there are multiple regions on the new edge, you choose which to start on. See the diagrams on the next page.
 
@@ -303,7 +320,8 @@ Travel Example 1 Zoey moves the ship to a region with a hazard of ghostly fog. S
 
 Travel Example 3 Zoey wants to travel to a new map. She decides to move across the western edge of the current map. This leads to pg. 13 (as indicated by the blue arrow), so she turns to pg. 13. She must enter on the opposite side of this new map, so she starts on a region bordering the eastern edge. She can choose to start on either region, and she chooses the northern region.
 
-Action: Explore Explore one of the locations with a red circle outline on the region where the ship is located. When you explore, you make choices, complete challenges, and/or participate in combat.
+#### Action: Explore (page 15)
+Explore one of the locations with a red circle outline on the region where the ship is located. When you explore, you make choices, complete challenges, and/or participate in combat.
 
 First, choose a location to explore and open the storybook to the paragraph number listed on the location on the map.
 
@@ -325,15 +343,16 @@ A. Cut the rope bindings on some nearby rocks. CUNNING 5 Fail: -3 health (Turn t
 
 B. Wriggle free of the rope bindings. STRENGTH 6 Fail: -3 health (Turn to A1)
 
-Action: Visit a Market Location The ship must be in the same region as a market location.
+#### Action: Visit a Market Location (page 15)
+The ship must be in the same region as a market location.
 
 Draw 7 cards from the market deck (market cards are adventure cards that you can purchase). You may purchase any number of them according to their cost listed in coins on the card near the card name. Place any that you purchase near the ship board, next to your other adventure cards, face up. Place any cards that you do not purchase from the market at the bottom of the market deck.
 
 Exception: If you purchase a weapon, equip it to one of your crew. Each crew member may equip any number of weapons.
 
-## Market Cards
+ Market Cards
 
-## Market Location
+ Market Location
 
 Action: Visit a Port The ship must be in the same region as a port. You may then perform any or all of the following actions once. (Port actions are listed on the port board.)
 
