@@ -761,27 +761,46 @@ Adventure cards represent the people, equipment, knowledge, and totems you find 
 
 which are explained below). You gain adventure cards by exploring or by purchasing market cards (market cards are a type of adventure card). ANY player can use adventure cards you own at any time, even to help another player in a challenge or combat.
 
-Totems You must find as many totems as possible. The number of totems you find will determine the story finale at the end of the campaign. Totems have a special "totem" symbol in the top left corner of the card. All totems are adventure cards.
+#### Totems (page 29)
+You must find as many totems as possible. The number of totems you find will determine the story finale at the end of the campaign. Totems have a special "totem" symbol in the top left corner of the card. All totems are adventure cards.
+
+>
 
 Command cost to activate the card. Place the command on the card when you use it.
 
+>
+
 You can activate this card to either gain 3 savvy during a challenge (after drawing fate) OR gain 2 block during combat. This card also has a "passive" ability, which means that it is always active and you do not need to spend a command to use it.
 
-## Card Type And Adventure Card Number.
+Card Type And Adventure Card Number.
+
+>
 
 This adventure card lets you redraw fate and keep the highest result.
 
 This is a weapon. You can equip this to a crew member (or give it to a different crew member) at any time outside of combat. Slide it underneath their crew board so that only the weapon info is showing.
 
+>
+
 This is a recipe. When you activate this card, you can pay 3 of any type of food (meat, grain, vegetables) to remove 3 fatigue from crew members and remove 1 low morale status token.
+
+>
 
 When you activate this card, it gives a crew member +3 temporary block. You can only use block in combat. Block allows you to ignore damage.
 
+>
+
 With this recipe, you must pay 3 grain. You may remove 3 fatigue and restore 3 health. You may divide these benefits among different crew members.
+
+>
 
 Market cards have a cost in the bottom right corner. Market cards are adventure cards that you can purchase using a "Visit a Market Location" action.
 
+>
+
 When you activate this card, you may remove 1 madness from any crew member OR gain 3 savvy during a challenge.
+
+>
 
 Designer's Note: In the later stages of your campaign, it is likely that you will have twenty or more adventure cards. To keep the play area organized, you may wish to place some of the cards that you don't plan to use in a pile to the side. For example, you might own two recipes that are very similar except one of them is obviously better. In this case, you likely won't need the inferior recipe and can place it to the side, to clean up the play area.
 
