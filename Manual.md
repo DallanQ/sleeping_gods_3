@@ -232,25 +232,20 @@ On this side of the ship board, the Quarters room gives 4/5 command tokens. If p
 
 Bridge: Draw 1 ability card and gain the specified number of command tokens. Also remove any command tokens placed on all crew members (even those controlled by other players) and adventure cards and return them to the supply.
 
-## Ability Cards
-
 Galley: Draw 2 ability cards (1 ability card if playing with 1 or 2 players) and gain the specified number of command tokens. Also, you may discard exactly 1 ability card from your hand to remove 1 fatigue from any crew member.
 
 Deck: Gain the specified number of command tokens. Also, you may draw up to 3 search tokens. Draw each token one at a time before deciding to continue drawing or stop. Apply any damage shown on all tokens, but keep the rewards from only one token. After applying the effects, place the search tokens in a discard pile. If you run out, shuffle the search tokens and make a new draw pile.
 
-## Search Tokens
-
+Search Tokens
 Gain 1 vegetable and 1 meat.
-
 Gain 1 meat, 1 vegetable, and take 1 ship damage.
-
 Gain 1 coin OR 2 materials.
 
 Quarters: Draw 1 ability card and gain the specified number of command tokens. Also, remove any 3 command tokens (2 if playing with 1 or 2 players) placed on crew members (even crew members controlled by other players) and adventure cards and return them to the supply.
 
 Sick Bay: Draw 1 ability card and gain the specified number of command tokens. Also, restore 1 health to any crew member.
 
-## . Event
+### 2. Event (page 12)
 
 Draw the top card of the event deck and read it aloud. Apply the effect or complete the challenge. • •
 
