@@ -885,29 +885,28 @@ To reset the game for a new campaign, follow these steps:
 
 4. Return all tokens to the supply.
 
-## Variant: Dice
+### Variant: Dice (page 34)
 
 If playing with this variant, you may roll a six-sided die any time you must draw fate, instead of drawing fate.
 
 Designer's Note: Some groups may prefer this, but the downside is that it adds more chaos to the game. In the current system, you can manipulate your ability deck somewhat by holding onto low numbers in hand, or equipping low numbers to crew members so they are not in the deck. You can also make rough calculations based on how many 1s and 6s you've seen drawn (because 1s and 6s are half as common as other numbers). When using dice, you lose these benefits.
 
-## Final Score
+### Final Score (page 34)
 
 At the end of the campaign, write down your final score on your journey log sheet.
 
 - Gain 2 points per adventure card. Gain an extra 2 points if the card is a totem.
-
 - Gain 1 point per quest card (include cards in the used quest box).
-
-- Gain 2 points per level card. • Gain 1 point per 2 remaining coins. • Gain 1 point per remaining artifact. • Gain 10 extra points if you reached an ending in the campaign.
-
+- Gain 2 points per level card. 
+- Gain 1 point per 2 remaining coins. 
+- Gain 1 point per remaining artifact. 
+- Gain 10 extra points if you reached an ending in the campaign.
 - Lose 10 points per defeat (if playing normal mode).
-
 - Gain 25 extra points if playing brutal mode.
 
-## Ability Clarifications
+### Ability Clarifications (page 34)
 
-## General Crew Board Ability Rules
+#### General Crew Board Ability Rules (page 34)
 
 +1 Damage: This can only be added to an attack the crew member performs. The damage cannot be dealt by itself, and it cannot be added to another crew member's attack.
 
@@ -923,9 +922,7 @@ Repair 1: Remove 1 damage from the ship when you use this ability.
 
 Redraw Fate if 1: If you draw fate 1, you may use this ability to redraw fate.
 
-1
-
-## General Ability Card Rules
+#### General Ability Card Rules (page 34)
 
 Abilities on ability cards generally only apply to the crew member to which they are equipped unless otherwise specified on the card.
 
@@ -933,9 +930,10 @@ If an ability description says "you," it means the player that controls the crew
 
 Instant Effect: Apply the effect the moment that you equip the ability card.
 
-Specific Cards Surprise Strike: Discard the card to deal 1 damage (no enemy counterattack). You do not need to draw fate or use a combat action token to deal this damage.
+#### Specific Cards (page 34)
+Surprise Strike: Discard the card to deal 1 damage (no enemy counterattack). You do not need to draw fate or use a combat action token to deal this damage.
 
-## Enemy Abilities Clarifications
+### Enemy Abilities Clarifications (page 35)
 
 Adjacent deal +1/+2 damage: This activates at the end of each combat round. Any enemy cards adjacent to this card deal +1/+2 damage during their end of round attack.
 
