@@ -503,7 +503,8 @@ When a story section ends with the word COMBAT, followed by a list of numbers, y
   - Retrieve the 4 combat action tokens and distribute them among players. 
   - Four players: each player gets 1 token. 
   - Three players: the active player gets 2 tokens, the other players each get 1.
-  - Two players: each player gets 2 tokens. •	 One player: the player gets all 4 tokens.
+  - Two players: each player gets 2 tokens.
+  -	One player: the player gets all 4 tokens.
 
 - Place each crew member's synergy token on their crew board.
 
