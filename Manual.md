@@ -937,31 +937,31 @@ Surprise Strike: Discard the card to deal 1 damage (no enemy counterattack). You
 
 Adjacent deal +1/+2 damage: This activates at the end of each combat round. Any enemy cards adjacent to this card deal +1/+2 damage during their end of round attack.
 
-Low Morale: This activates at the end of each combat round. A crew member gains 1 low morale token (the active player chooses who).
-
 Adjacent Regen 1: This activates at the end of each combat round. Remove 1 damage token from each enemy card that is directly adjacent to this enemy card (the active player chooses which).
 
 Discard Ability: This activates at the end of each combat round. Discard 1 equipped ability card from a crew member (the active player chooses which).
+
+Venom: This activates at the end of each combat round. A crew member gains 1 venom status token (the active player chooses who).
+
+First Strike: This ability is active until disabled. Any time a crew member attacks this enemy, the enemy counterattacks first.
+
+Frighten: This activates at the end of each combat round. A crew member gains 1 frightened status token (the active player chooses who).
+
+Lose 1 Resource: This activates at the end of each combat round. Return 1 resource to the supply.
+
+Madness: This activates at the end of each combat round. A crew member gains 1 madness status token (the active player chooses who).
+
+Low Morale: This activates at the end of each combat round. A crew member gains 1 low morale token (the active player chooses who).
 
 Regen 1/3: This activates at the end of each combat round. Remove 1 or more damage token(s) from this enemy card (the active player chooses who).
 
 Disarm: This activates at the end of each combat round. Remove 1 equipped weapon card from a crew member (the active player chooses which). You can equip this again after combat ends.
 
-Venom: This activates at the end of each combat round. A crew member gains 1 venom status token (the active player chooses who).
-
 Resist 1: This enemy blocks 1 damage each time a crew member deals damage to it, until this ability is disabled.
-
-First Strike: This ability is active until disabled. Any time a crew member attacks this enemy, the enemy counterattacks first.
 
 Weaken: This activates at the end of each combat round. A crew member gains 1 weakened status token (the active player chooses who).
 
-Frighten: This activates at the end of each combat round. A crew member gains 1 frightened status token (the active player chooses who).
-
 1 Ship Damage: This activates at the end of each combat round. The ship takes 1 damage. Draw fate to determine which rooms are hit.
-
-Lose 1 Resource: This activates at the end of each combat round. Return 1 resource to the supply.
-
-Madness: This activates at the end of each combat round. A crew member gains 1 madness status token (the active player chooses who).
 
 ## Achievements
 
