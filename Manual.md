@@ -1048,76 +1048,74 @@ Players cannot give each other ability cards in hand, but there are some excepti
 - Materials 
 - Adventure Cards
 
-Attack Damage: The amount of damage tokens dealt by a crew member or enemy.
-
-## Block: Ignore This Amount Of Damage From An Attack.
-
-Accuracy: Add this number to your "draw fate" when you attack.
-
-Health: On enemies, cover each heart symbol with damage to defeat it. On crew, this is the amount of damage tokens they can hold. If a crew member's damage is equal to their health, they cannot participate in combat or challenges, or use their abilities until you restore at least 1 health.
-
-## Discard Ability Card From Hand
-
-XP Cost: Experience points you must pay to buy this card. (Pg. 16)
-
-Flying: While uncovered, this enemy has +1 defense vs. weapons without the "ranged" attribute.
-
 ## Icons (page 40)
 
-## Remove 1 Frightened
+- Attack Damage: The amount of damage tokens dealt by a crew member or enemy.
 
-## Remove 1 Madness
+- Block: Ignore this amount of damage from an attack.
 
-## Remove 1 Venom
+- Accuray: Add this number to your “draw fate” when you attack.
 
-## Remove 1 Weakened
+- Health: On enemies, cover each heart symbol with damage to defeat it. On crew, this is the amount of damage tokens they can hold. If a crew member’s damage is equal to their health, they cannot participate in combat or challenges, or use their abilities until you restore at least 1 health.
 
-## Totem
+- Discard Ability Card From Hand.
 
-## Fate
+- XP Cost: Experience points you must pay to buy this card. (Pg. 16)
 
-## Redraw Fate
+- Flying: While uncovered, this enemy has +1 defense vs. weapons without the "ranged" attribute.
 
-## Craft Skill
+- Remove 1 Frightened
+
+- Remove 1 Madness
+
+- Remove 1 Venom
+
+- Remove 1 Weakened
+
+- Remove 1 Low Morale
+
+- End of Round Enemy Ability: At the end of each combat round, the ability in the same square as this symbol activates.
+
+- Synergy Point: If a crew member places damage on this, place their synergy token on another crew member.
+
+- Redraw Fate if 1: If you draw 1 fate, you may use this ability to redraw fate.
+
+- Totem
+
+- Fate
+
+- Redraw Fate
+
+- Craft Skill
 
 - Cunning Skill (looks like a wolf)
 
 - Savvy Skill (looks like an anchor)
 
-## Perception Skill
+- Perception Skill
 
-## Strength Skill
+- Strength Skill
 
-Remove Fatigue (1 unless specified)
+- Remove Fatigue (1 unless specified)
 
-## Command Cost To Activate
+- Command Cost To Activate
 
-## Ranged Weapon Attribute
+- Ranged Weapon Attribute
 
-## Coin Cost
+- Coin Cost
 
-## Grain (Food)
+- Grain (Food)
 
-## Vegetables (Food)
+- Vegetables (Food)
 
-## Meat (Food)
+- Meat (Food)
 
-## Remove 1 Low Morale
+- Food (Any Type)
 
-## Food (Any Type)
+- Materials
 
-1
+- Mild Event
 
-End of Round Enemy Ability: At the end of each combat round, the ability in the same square as this symbol activates.
+- Perilous Event
 
-Synergy Point: If a crew member places damage on this, place their synergy token on another crew member.
-
-Redraw Fate if 1: If you draw 1 fate, you may use this ability to redraw fate.
-
-## Materials
-
-## Mild Event
-
-## Perilous Event
-
-## Deadly Event
+- Deadly Event
