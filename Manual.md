@@ -577,18 +577,6 @@ Damage: This weapon deals 2 damage when it hits. Extra damage: You may discard 1
 
 5. COUNTERATTACK: If the enemy card you attacked was not defeated, it counterattacks immediately. It deals damage equal to its basic attack damage plus any uncovered damage symbols on its card. Place this damage on the crew member who attacked. Apply any block from the weapon you used, which lets you ignore 1 damage per 1 block. You may also use block from adventure cards and crew abilities at this time. If the crew member runs out of health, choose another crew member to take any remaining damage, and so on.
 
----
-
-1. Place combat action token.
-
-2. Choose enemy target.
-
-3. Draw fate and add the accuracy of your weapon. Compare to enemy defence.
-
-4. If you hit, place damage on enemy squares adjacently.
-
-5. Enemy counterattacks.
-
 ### End Of Round (page 24)
 
 #### END OF ROUND (page 24) 
@@ -608,8 +596,6 @@ Each enemy attacks one at a time and in order from left to right, dealing damage
 The Skeletal Warrior and the Flying Eye enemy cards remain after the players have placed all 4 attack tokens. They have taken no damage, so all of their attacks are active. The Skeletal Warrior now attacks, dealing 2 damage to Mac. Next, the Flying Eye attacks, dealing 3 damage to Laurent and giving Marco a madness token.
 
 Now players reclaim their combat action tokens and a new combat round begins.
-
-<!-- This end of round enemy ability causes a crew member to gain 1 madness. -->
 
 ### Other Combat Rules (page 24)
 
