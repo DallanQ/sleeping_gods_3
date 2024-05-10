@@ -1052,70 +1052,140 @@ Players cannot give each other ability cards in hand, but there are some excepti
 
 - Attack Damage: The amount of damage tokens dealt by a crew member or enemy.
 
+> The Attack Damage symbol looks like a red explosion.
+
 - Block: Ignore this amount of damage from an attack.
+
+> The block symbol looks like a blue shield.
 
 - Accuray: Add this number to your “draw fate” when you attack.
 
+> The accuracy symbol looks like a skull with horns.
+
 - Health: On enemies, cover each heart symbol with damage to defeat it. On crew, this is the amount of damage tokens they can hold. If a crew member’s damage is equal to their health, they cannot participate in combat or challenges, or use their abilities until you restore at least 1 health.
 
-- Discard Ability Card From Hand.
+> The symbol of health looks like a heart.
+
+- Discard Ability Card From Hand. 
+
+> The Discard Ability Card from Hand symbol looks like a card with a drawing of a hand
 
 - XP Cost: Experience points you must pay to buy this card. (Pg. 16)
 
+> The XP cost symbol looks like a scroll
+
 - Flying: While uncovered, this enemy has +1 defense vs. weapons without the "ranged" attribute.
+
+> The flying symbol looks like a white wing.
 
 - Remove 1 Frightened
 
+> The "Remove 1 Frightened" symbol resembles a chicken with an arrow pointing to the right.
+
 - Remove 1 Madness
+
+> The "Remove 1 Madness" symbol resembles a purple swirl.
 
 - Remove 1 Venom
 
+> The "Remove 1 Venom" symbol looks like a green drop.
+
 - Remove 1 Weakened
+
+>  The "Remove Weakened 1" symbol resembles a skull buried in sand.
 
 - Remove 1 Low Morale
 
+> The "Remove 1 Low Morale" symbol depicts a hand with the thumb pointing downwards, conveying a sense of disapproval or low morale.
+
 - End of Round Enemy Ability: At the end of each combat round, the ability in the same square as this symbol activates.
+
+> The End of Round Enemy Ability symbol looks like an hourglass.
 
 - Synergy Point: If a crew member places damage on this, place their synergy token on another crew member.
 
+> The Synergy Point looks like a red rhombus.
+
 - Redraw Fate if 1: If you draw 1 fate, you may use this ability to redraw fate.
+
+> The "Redraw Fate if 1" looks like a red rhombus.
 
 - Totem
 
-- Fate
+> The Totem symbol looks like a rock.
+
+- Fate 
+
+> The Fate symbol looks like a teal-colored gem.
 
 - Redraw Fate
 
+> The Redraw Fate symbol resembles a teal gem with an arrow pointing to the right.
+
 - Craft Skill
 
-- Cunning Skill (looks like a wolf)
+> The Craft Skill symbol looks like a hammer and a socket wrench.
 
-- Savvy Skill (looks like an anchor)
+- Cunning Skill
+
+> The Cunning Skill symbol looks like a wolf.
+
+- Savvy Skill
+
+> The Savvy Skill symbol looks like an anchor.
 
 - Perception Skill
 
+> The Perception Skill symbol looks like an eye.
+
 - Strength Skill
+
+> The Strength Skill symbol looks like a flexed arm showing muscles.
 
 - Remove Fatigue (1 unless specified)
 
+> The Remove Fatigue symbol looks like a shield.
+
 - Command Cost To Activate
+
+> The Command Cost To Activate symbol looks like a command token.
 
 - Ranged Weapon Attribute
 
+> The Ranged Weapon Attribute symbol looks like an arrow.
+
 - Coin Cost
+
+> The Coin Cost symbol looks like a coin.
 
 - Grain (Food)
 
+> The Grain symbol resembles a small cluster of wheat.
+
 - Vegetables (Food)
+
+> The Vegetables symbol looks like a carrot.
 
 - Meat (Food)
 
+> The Meat symbol looks like a steak.
+
 - Food (Any Type)
+
+> The Food looks like meat, grains and vegetables.
 
 - Materials
 
+> The Material symbol looks like wooden planks.
+
 - Mild Event
+
+> The Mild Event symbol looks like a mountain.
 
 - Perilous Event
 
+> The Dangerous Event symbol looks like big waves.
+
 - Deadly Event
+
+> The Deadly Event symbol looks like an electrical storm.
