@@ -672,7 +672,7 @@ Cid and Zoey then reclaim their combat action tokens and a new combat round begi
 
 For more details about specific combat and enemy abilities, see pg. 35.
 
-<!-- Remember: Return enemy cards to the enemy deck in order. -->
+Remember: Return enemy cards to the enemy deck in order.
 
 #### Synergy Token Example (page 27)
 Rafael places damage on the top right square and the middle right square on the Flying Eye. Because the middle right square has a synergy point icon, Rafael places his synergy token on a different crew board, this time on Gregory's board.
@@ -697,13 +697,21 @@ If a story paragraph starts with, If keyword X, turn to X, then you must follow 
 
 If a choice says Requires keyword X, it means that you must have a specific keyword to choose it. Even if you have the specified keyword, you are not forced to select that choice. You may select another choice.
 
-<!-- Active Quest Symbol: This means that this quest is an active quest and you can travel somewhere to complete it. Quest cards without this symbol generally only need to be referenced when you check to see if you have a specific keyword.
+Active Quest Symbol: This means that this quest is an active quest and you can travel somewhere to complete it. Quest cards without this symbol generally only need to be referenced when you check to see if you have a specific keyword.
+
+> The Active Quest symbol, resembling a wave, is located in the center of the left side of the card.
 
 Quest Description
 
+> The Quest Description appears in the right center of the card.
+
 Keyword
 
-Quest Card Number -->
+> The keyword is displayed at the bottom left of the card.
+
+Quest Card Number
+
+> The Quest Card Number is displayed at the bottom right of the card.
 
 ### Defeat (page 28)
 
