@@ -513,31 +513,31 @@ Giving Combat Action Tokens: Players can give each other unused combat action to
 
 Enemy Name, Level, And Number
 
-> 
+> The enemy's name, level, and number are displayed in the center of the enemy card.
 
 Enemy Health: Each heart must be covered to defeat the enemy.
 
->
+> The Enemy's Health is indicated by the hearts displayed on the grid at the bottom of the enemy card.
 
 Synergy Point: Cover squares with synergy points to gain bonuses. See pg. 25.
 
->
+> Synergy points are depicted in the upper right section of the squares within the enemy's grid at the bottom of the enemy card.
 
 Uncovered extra enemy attack damage.
 
->
+> The attack damage sign, resembling an explosion, is situated in the box positioned above and to the left of the grid at the bottom of the enemy card.
 
 Enemy Basic Attack Damage: This enemy deals 2 damage plus 1 or more for every uncovered attack symbol on their card.
 
->
+> The enemy's basic attack damage is displayed in the center of the enemy card on the right side.
 
 Enemy Defense Number
 
->
+> The enemy's defense is indicated in the center of the right side of the enemy card.
 
 The hourglass indicates an end of round ability. The "madness" symbol indicates a status token given to the crew during end of round damage.
 
->
+> In this example, the madness symbol, resembling a purple swirl, is situated in the box located at the top center of the grid on the enemy card.
 
 #### Accuracy And Enemy Defense (page 22)
 
