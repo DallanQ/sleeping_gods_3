@@ -629,8 +629,6 @@ Crew Member at 0 Health: If a crew member who misses reaches 0 health during the
 
 Synergy token abilities are explained in the box to the right.
 
-<!-- ## Synergy Point -->
-
 Audrie: When activated, the crew member deals +1 damage during their attack.
 
 Captain Odessa: When activated, the crew member may place damage diagonally.
@@ -656,14 +654,10 @@ Jamey attacks the Scorpion Squid with Laurent using the Club. He places a combat
 
 The Scorpion Squid then counterattacks. It deals 2 basic damage plus the 1 uncovered damage ability on the bottom right square. 2+1=3 damage. Laurent's club gives 2 block, reducing the damage by 2, so Laurent takes 1 damage. Jamey places 1 damage token on Laurent's crew board.
 
-<!-- ## Laurent'S 1St Attack -->
-
 #### Attack Example 2 (page 26)
 Jamey places a second attack action token on Laurent so he can attack the Scorpion Squid a second time. He draws fate 6. He has +0 accuracy, so the total is 6, higher than the Scorpion Squid's defense of 5. The attack hits, dealing 2 damage. Jamey places the damage on the bottom right square and the middle right square. Covering the middle right square means that the Scorpion Squid's end of round ability, "Weaken," will not activate at the end of the combat round. There is also a synergy point on that square, which means that Laurent's synergy token can be placed on another crew board. Jamey places the synergy token on Audrie's crew board.
 
 The Scorpion Squid now counterattacks. Because a damage token covers the bottom right square, the Squid deals only 2 damage. Laurent's club gives 2 block, so he takes 0 damage.
-
-<!-- ## Laurent'S 2Nd Attack -->
 
 #### Combat Round Example (page 27)
 Cid and Zoey are attacked by a Skeletal Warrior, a Flying Eye, and an Infernal Jackal. They start the first combat round. They each have two combat action tokens.
