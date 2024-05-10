@@ -543,25 +543,25 @@ The hourglass indicates an end of round ability. The "madness" symbol indicates 
 
 Accuracy: Listed on crew weapons. Add to fate draw to attack an enemy's defense.
 
->
+> The accuracy symbol looks like a skull with horns.
 
 Enemy Defense: On enemy cards. Crew members must meet or exceed this number in order to hit an enemy.
 
->
+> The Enemy Defense symbol looks like a horned skull with a shield.
 
 #### Crew Weapon Layout (page 22)
 
 Block: used only during enemy counterattack. Ignore 1 damage per block.
 
->
+> The Block icon is located at the bottom right of the Crew board.
 
 Accuracy
 
->
+> The Accuracy icon is located at the bottom right of the Crew board.
 
 Damage: This weapon deals 2 damage when it hits. Extra damage: You may discard 1 equipped savvy card (but not a level card) from this crew member to deal +1 damage when you attack with this weapon. You may not discard a card from hand to deal the extra damage. The ability card must be equipped to discard it.
 
->
+> The Damage icon is located at the bottom right of the Crew board.
 
 ### Attack And Counterattack (page 23)
 
