@@ -382,7 +382,11 @@ Play an ability card from your hand to one of your crew members. This is known a
 
 Command Tokens
 
+> Command tokens look like blue hexagons.
+
 Pay 2 command to equip this ability card from your hand to Laurent.
+
+> Command tokens are at the top right of the ability cards. The example card requires two command tokens to equip the character Laurent.
 
 ### Activate Crew Ability (page 18)
 You may pay command to activate one of your crew member's abilities. Place the required command on their crew board to indicate that they have used an ability, then gain the effects. You may not use another ability on this crew member until all command tokens have been removed from their crew board. (See pg. 34 for ability clarifications.)
