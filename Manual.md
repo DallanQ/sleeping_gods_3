@@ -224,22 +224,21 @@ Move the ship action figure to one of the five ship rooms and apply the effect.
 
 - If you cannot take an action because all rooms have 2 damage, move the ship action figure to one of the rooms, but take no ship action.
 
-- Ship room effects vary depending on the number of players in the game. When a room shows two numbers over the command token symbol, check the player count symbol at the top right corner of the ship board. This tells you what amount of command to take (depending on the number of players).
+Ship room effects vary depending on the number of players in the game. When a room shows two numbers over the command token symbol, check the player count symbol at the top right corner of the ship board. This tells you what amount of command to take (depending on the number of players).
 
 When playing with 3-4 players, use the side of the ship board that has this symbol.
 
+> The symbol looks like a person alongside the notation "3/4."
+
 On this side of the ship board, the Quarters room gives 4/5 command tokens. If playing with 3 players, you gain 4 command when you use this room, and 5 command if playing with 4 players. Also, you return 3 command on cards to the supply.
+
+> The quarter token is a blue hexagon with the notation "4/5" inscribed.
 
 Bridge: Draw 1 ability card and gain the specified number of command tokens. Also remove any command tokens placed on all crew members (even those controlled by other players) and adventure cards and return them to the supply.
 
 Galley: Draw 2 ability cards (1 ability card if playing with 1 or 2 players) and gain the specified number of command tokens. Also, you may discard exactly 1 ability card from your hand to remove 1 fatigue from any crew member.
 
 Deck: Gain the specified number of command tokens. Also, you may draw up to 3 search tokens. Draw each token one at a time before deciding to continue drawing or stop. Apply any damage shown on all tokens, but keep the rewards from only one token. After applying the effects, place the search tokens in a discard pile. If you run out, shuffle the search tokens and make a new draw pile.
-
-Search Tokens
-Gain 1 vegetable and 1 meat.
-Gain 1 meat, 1 vegetable, and take 1 ship damage.
-Gain 1 coin OR 2 materials.
 
 Quarters: Draw 1 ability card and gain the specified number of command tokens. Also, remove any 3 command tokens (2 if playing with 1 or 2 players) placed on crew members (even crew members controlled by other players) and adventure cards and return them to the supply.
 
@@ -265,18 +264,6 @@ After you have drawn all cards from the event deck, finish the current player's 
 
 #### Third Time (page 12)
 After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph F1 instead of drawing an event card.
-
-When you draw this event, place it face up near the ship board. The effect applies until you are directed to discard the card. At the end of each player's turn, that player may attempt a CRAFT 6 challenge. If the challenge is successful, discard this card.
-
-> 
-
-When you draw this event, choose to take 1 ship damage or attempt a STRENGTH 6 challenge.
-
-> 
-
-When you draw this event, place it face up near the ship board. The "turn end" effect applies until you are directed to discard the card. As an action, you may attempt a STRENGTH 7 challenge to discard this card and the serpent token. Hunting Serpent Special Rule: For this event, if you turn to a new page of the atlas, place the serpent on the region your ship starts in.
-
-> 
 
 ### 3. Two Actions (page 13)
 
