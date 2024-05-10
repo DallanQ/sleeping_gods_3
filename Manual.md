@@ -422,7 +422,7 @@ A challenge is a test of skill that you must overcome. Each challenge is associa
 
 A basic challenge looks like this:
 
- Strength 5 Fail: -3 Health
+Strength 5 Fail: -3 Health
 
 In this example, you must achieve a total of 5 strength or higher. If you fail you will take the failure consequence.
 
@@ -447,8 +447,6 @@ Determine the sum of the specified skills on participating crew members (which i
 ### Pass the Challenge (page 19)
 If you obtain a high enough skill number, ignore any listed failure consequences. Read the next line and follow the instructions.
 
-
-
 ### Failure (page 20)
 If you fail, apply the consequences listed after the word "fail." These are some of the possible consequences:
 
@@ -458,7 +456,7 @@ If you fail, apply the consequences listed after the word "fail." These are some
 
 - Turn to X: Some fail consequences require you to turn to a different story number than if you had succeeded. You must turn to the specified "fail" story number (in italics), instead of the number listed on the next line (if any).
 
-- Gain Venom/Weakened/Frightened/ Madness/Low Morale: Place the appropriate token on one of your crew members. Place it on participating crew members first, if they don't already have the same status. (Remember that a crew member cannot have 2 of the same status token.)
+- Gain Venom/Weakened/Frightened/Madness/Low Morale: Place the appropriate token on one of your crew members. Place it on participating crew members first, if they don't already have the same status. (Remember that a crew member cannot have 2 of the same status token.)
 
 - If a consequence lists a specific crew member, apply the effects to that crew board.
 
