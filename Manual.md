@@ -399,14 +399,18 @@ Activate Adventure Cards You may pay command to activate an adventure card abili
 
 Place 2 command on Laurent to gain 1 meat or to add 1 to his accuracy.
 
+> The command tokens needed to obtain 1 meat or enhance accuracy by 1 are positioned at the bottom center of the crew member card.
+
 Place 1 command on this card to gain 2 strength, 3 perception, or 1 block.
+
+> The required commands are located at the bottom right corner of the adventure cards.
 
 ### Activate Ability Card Abilities (page 18)
 Some ability cards require you to spend command to activate their ability after they have been equipped to a crew member. You do not need to place this command on the ability card (just return it to the supply). You may not spend command that has been placed on a crew board or adventure card.
 
 ### Other Command Uses (page 18)
 You may also spend command to: 
-- Give another player your unused combat action
+- Give another player your unused combat action token during combat (pg. 21).
 
 - Have your crew members participate in a challenge on another player's turn (pg. 19).
 
