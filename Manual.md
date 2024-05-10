@@ -318,7 +318,10 @@ Read the first box of text in the story (read aloud unless you are playing solo)
 
 NOTE: Do not read ahead or turn to any further paragraphs until you have made your choice/ completed your challenge. You are not meant to know what comes in a future paragraph before you make your choice.
 
-Story Example A You wake in the cold dirt. Dew drips from your clothes and your hands ache, bound with crude rope.
+#### Story Example (page 15)
+A 
+
+You wake in the cold dirt. Dew drips from your clothes and your hands ache, bound with crude rope.
 
 You take in your surroundings: a wooden hut with an open doorway. Most of the crew lies next to you.
 
@@ -354,15 +357,11 @@ Keep track of XP you gain on your journey log sheet. Cross off or mark when you 
 
 When you buy a level card, immediately equip it to the associated crew member. You can equip an ability by tucking the card beneath the crew board so that the character image on the card is hidden. This card remains equipped for the remainder of the campaign. (Do not shuffle it into the ability deck at any time.) Level cards do not count toward the 2-card limit for equipped ability cards (see pg. 17). Once equipped, you may not discard them to use other abilities or to add to an attack.
 
- Xp Cost
-
- Port
-
-### 4. end of Turn
+### 4. End of Turn (page 16)
 
 Pass the captain token to the player on the left. It is now that player's turn.
 
-## Spending Command
+## Spending Command (page 17)
 
 Command represents the crew's mental and physical readiness and their ability to work together.
 
