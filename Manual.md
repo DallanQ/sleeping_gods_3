@@ -291,21 +291,17 @@ Edge of the Map: If you reach the edge of the map and want to keep going in the 
 
 Designer's Note on Travel: The Manticore has enough coal in its stores to last you the entire trip, so you do not need to worry about fuel.
 
-## Fate Result
+Travel Example 1 Zoey moves the ship to a region with a hazard of ghostly fog. She must attempt a challenge of CUNNING 5. She places a fatigue token on Captain Odessa to add her cunning. She draws a fate of 1. Captain Odessa has 1 cunning, so 1+1=2, a failure (she needed 5 or more). Zoey takes 1 low morale token and places it on Captain Odessa.
 
-## Hazard
-
-## Challenge Number
-
-## Distance
-
-Take this ship damage if you fail.
+> In travel example 1, you'll find the ship located in the upper right corner with a red arrow indicating the direction to the left, leading toward the ghostly fog.
 
 Travel Example 2 Zoey moves the ship to a region with a hazard of rocky shores. She attempts a SAVVY 5 challenge. She chooses Gregory and Kannan to participate, giving her 2 savvy. She draws 2, so the total is 2+2=4, so she must take 1 ship damage. If she had obtained at least 5, she would have ignored the ship damage.
 
-Travel Example 1 Zoey moves the ship to a region with a hazard of ghostly fog. She must attempt a challenge of CUNNING 5. She places a fatigue token on Captain Odessa to add her cunning. She draws a fate of 1. Captain Odessa has 1 cunning, so 1+1=2, a failure (she needed 5 or more). Zoey takes 1 low morale token and places it on Captain Odessa.
+> In travel example 2, the ship is positioned in the lower right corner, while a prominent red arrow directs attention towards the perilous rocky shores.
 
 Travel Example 3 Zoey wants to travel to a new map. She decides to move across the western edge of the current map. This leads to pg. 13 (as indicated by the blue arrow), so she turns to pg. 13. She must enter on the opposite side of this new map, so she starts on a region bordering the eastern edge. She can choose to start on either region, and she chooses the northern region.
+
+> In Travel Example 3, the ship is located on page 3, with a directional arrow pointing towards the northern edge of page 13.
 
 #### Action: Explore (page 15)
 Explore one of the locations with a red circle outline on the region where the ship is located. When you explore, you make choices, complete challenges, and/or participate in combat.
