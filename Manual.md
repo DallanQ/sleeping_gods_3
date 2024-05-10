@@ -190,8 +190,8 @@ There are five types of status tokens in the game. When a crew member gains a st
 
 - Low Morale: You must pay 1 extra command to use the crew member in skill challenges.
 
-#### Journey (page 9)
-Log When you start a new campaign, write your name and date on a new journey log sheet. You use this sheet to track certain information when you save your game during the campaign (and also as a memento of your journey). You can also keep notes on the world map to help you remember important information. You can use world map notes from previous campaigns when you play a new campaign.
+#### Journey Log (page 9)
+When you start a new campaign, write your name and date on a new journey log sheet. You use this sheet to track certain information when you save your game during the campaign (and also as a memento of your journey). You can also keep notes on the world map to help you remember important information. You can use world map notes from previous campaigns when you play a new campaign.
 
 #### World Map and The Tides of Ruin Expansion (page 9)
 In Sleeping Gods, the atlas includes 9 maps to explore, but if you examine the map on your journey log, you can see that this is only part of the game world. These extra maps and locations are included in the Tides of Ruin expansion.
@@ -525,7 +525,7 @@ Giving Combat Action Tokens: Players can give each other unused combat action to
 
 Enemy Name, Level, And Number
 
->
+> 
 
 Enemy Health: Each heart must be covered to defeat the enemy.
 
@@ -947,6 +947,8 @@ First Strike: This ability is active until disabled. Any time a crew member atta
 
 Frighten: This activates at the end of each combat round. A crew member gains 1 frightened status token (the active player chooses who).
 
+> The Frighten symbol looks like a chicken.
+
 Lose 1 Resource: This activates at the end of each combat round. Return 1 resource to the supply.
 
 Madness: This activates at the end of each combat round. A crew member gains 1 madness status token (the active player chooses who).
@@ -1080,7 +1082,7 @@ Players cannot give each other ability cards in hand, but there are some excepti
 
 - Remove 1 Frightened
 
-> The "Remove 1 Frightened" symbol resembles a chicken with an arrow pointing to the right.
+> The "Remove 1 Frightened" symbol resembles a chicken.
 
 - Remove 1 Madness
 
