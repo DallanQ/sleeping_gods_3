@@ -743,39 +743,41 @@ Command cost to activate the card. Place the command on the card when you use it
 
 > The Command cost of the adventure card is located in the center of the card.
 
-You can activate this card to either gain 3 savvy during a challenge (after drawing fate) OR gain 2 block during combat. This card also has a "passive" ability, which means that it is always active and you do not need to spend a command to use it.
-
-> The description explaining how to activate the card is positioned in the central part of the card, below the command cost.
-
 Card Type And Adventure Card Number.
 
 > The card type and number are displayed on the bottom right side of the adventure card.
 
+You can activate this card to either gain 3 savvy during a challenge (after drawing fate) OR gain 2 block during combat. This card also has a "passive" ability, which means that it is always active and you do not need to spend a command to use it.
+
+> This card is a passenger type. The description explaining how to activate the card is located in the center of the card, below the command cost.
+
 This adventure card lets you redraw fate and keep the highest result.
 
-This is a weapon. You can equip this to a crew member (or give it to a different crew member) at any time outside of combat. Slide it underneath their crew board so that only the weapon info is showing.
+> This card is an equipment type. It has a drawing of a hammer, rope, and lamp. It has the Redraw Fate symbol in the center.
 
->
+This card is a weapon type. You can equip this to a crew member (or give it to a different crew member) at any time outside of combat. Slide it underneath their crew board so that only the weapon info is showing.
+
+> This card, categorized as a weapon type, showcases symbols for precision, attack damage, cunning ability, and blocking in its central part.
 
 This is a recipe. When you activate this card, you can pay 3 of any type of food (meat, grain, vegetables) to remove 3 fatigue from crew members and remove 1 low morale status token.
 
->
+> This card is a recipe type. It has a drawing of a soup. The description explaining how to activate the card is located in the center of the card, below the command cost.
 
 When you activate this card, it gives a crew member +3 temporary block. You can only use block in combat. Block allows you to ignore damage.
 
->
+> This card is a equipament type. It has a drawing of a vest. In the center, there are instructions for using it.
 
 With this recipe, you must pay 3 grain. You may remove 3 fatigue and restore 3 health. You may divide these benefits among different crew members.
 
->
+> This card is a recipe type. It has a drawing of some waffles. In the center, there are instructions for using it.
 
 Market cards have a cost in the bottom right corner. Market cards are adventure cards that you can purchase using a "Visit a Market Location" action.
 
->
+> This card is a equipment type. It has a drawing of a vest. In the center, there are instructions for using it.
 
 When you activate this card, you may remove 1 madness from any crew member OR gain 3 savvy during a challenge.
 
->
+> This card is a equipment type. The card has a drawing of an eye. In the center, there are instructions for using it.
 
 Designer's Note: In the later stages of your campaign, it is likely that you will have twenty or more adventure cards. To keep the play area organized, you may wish to place some of the cards that you don't plan to use in a pile to the side. For example, you might own two recipes that are very similar except one of them is obviously better. In this case, you likely won't need the inferior recipe and can place it to the side, to clean up the play area.
 
