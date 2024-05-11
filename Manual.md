@@ -969,7 +969,7 @@ Some stories start with a town or city name in bold. In this case, the story str
 
 When you explore this location (40), the story starts with the town name "City of Ashes."
 
-> Locations and town names appear on the atlas.
+> The name of the town appears on the map as a scroll.
 
 ### Explore Tokens (page 37)
 
