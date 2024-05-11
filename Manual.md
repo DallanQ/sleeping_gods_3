@@ -707,7 +707,7 @@ Quest Description
 
 Keyword
 
-> The keyword is displayed at the bottom left of the card.
+> The Keyword is displayed at the bottom left of the card.
 
 Quest Card Number
 
@@ -715,7 +715,8 @@ Quest Card Number
 
 ### Defeat (page 28)
 
-Your main goals in Sleeping Gods are to find totems and survive the dangers of the Wandering Sea. As you journey, there are a number of ways that you can meet defeat. Defeat means something different depending on the mode you are playing (normal or brutal). There are two ways you can be defeated: 
+Your main goals in Sleeping Gods are to find totems and survive the dangers of the Wandering Sea. As you journey, there are a number of ways that you can meet defeat. Defeat means something different depending on the mode you are playing (normal or brutal). There are two ways you can be defeated:
+
 - All crew member health is reduced to 0. 
 - The ship has 11 damage.
 
@@ -733,24 +734,22 @@ Make sure to mark any totems you found on your journey on the game achievement s
 
 ### Adventure Cards (page 29)
 
-Adventure cards represent the people, equipment, knowledge, and totems you find on your journey. When you gain an adventure card, place it near the other adventure cards you own, face up near the ship board. You can use the abilities on these cards by placing command tokens on them (except weapons,
-
-which are explained below). You gain adventure cards by exploring or by purchasing market cards (market cards are a type of adventure card). ANY player can use adventure cards you own at any time, even to help another player in a challenge or combat.
+Adventure cards represent the people, equipment, knowledge, and totems you find on your journey. When you gain an adventure card, place it near the other adventure cards you own, face up near the ship board. You can use the abilities on these cards by placing command tokens on them (except weapons, which are explained below). You gain adventure cards by exploring or by purchasing market cards (market cards are a type of adventure card). ANY player can use adventure cards you own at any time, even to help another player in a challenge or combat.
 
 #### Totems (page 29)
 You must find as many totems as possible. The number of totems you find will determine the story finale at the end of the campaign. Totems have a special "totem" symbol in the top left corner of the card. All totems are adventure cards.
 
->
-
 Command cost to activate the card. Place the command on the card when you use it.
 
->
+> The Command cost of the adventure card is located in the center of the card.
 
 You can activate this card to either gain 3 savvy during a challenge (after drawing fate) OR gain 2 block during combat. This card also has a "passive" ability, which means that it is always active and you do not need to spend a command to use it.
 
+> The description explaining how to activate the card is positioned in the central part of the card, below the command cost.
+
 Card Type And Adventure Card Number.
 
->
+> The card type and number are displayed on the bottom right side of the adventure card.
 
 This adventure card lets you redraw fate and keep the highest result.
 
@@ -785,8 +784,6 @@ Designer's Note: In the later stages of your campaign, it is likely that you wil
 When you start a new campaign, write the players' names on a new journey log sheet. Also mark if you are playing normal or brutal mode. Use this sheet throughout the campaign to write down when you gain experience points (XP) and when you need to save the game.
 
 On the back of the journey log is a map of the Wandering Seas. It is HIGHLY RECOMMENDED to write notes on this map to help you remember things, such as where you've been, where you want to return, and more. If you know that a certain location requires a keyword, you can write this down as well so you know where to return when you gain the keyword later.
-
-<!-- ## Journey Log -->
 
 Sleeping Gods can only support one campaign at a time. This is because you need to keep track of which quest cards you have completed, current crew health and status effects, adventure cards you own, and more.
 
@@ -923,8 +920,6 @@ First Strike: This ability is active until disabled. Any time a crew member atta
 
 Frighten: This activates at the end of each combat round. A crew member gains 1 frightened status token (the active player chooses who).
 
-> The Frighten symbol looks like a chicken.
-
 Lose 1 Resource: This activates at the end of each combat round. Return 1 resource to the supply.
 
 Madness: This activates at the end of each combat round. A crew member gains 1 madness status token (the active player chooses who).
@@ -998,15 +993,15 @@ The words "materials" and "vegetables" are short for "materials token" and "vege
 
 Place equipped ability cards in the top two slots. (This is to remind you that you may not equip more than 2 ability cards per crew member.)
 
->
+> The ability cards are positioned at the bottom left of the crew board.
 
 Equipped Weapon Cards
 
->
+> The equipped weapon cards are positioned at the bottom right of the crew board.
 
 Place level cards below equipped ability cards, like this (unless there are no equipped ability cards, in which case you can place them directly beneath the crew board). An easy way to tell ability and level cards apart at a glace: level cards have a yellow strip on the bottom and ability cards have a turquoise strip.
 
->
+> The level cards are situated below the equipped ability cards.
 
 ### Rule reminder: what players share (page 39)
 
