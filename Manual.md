@@ -1,6 +1,4 @@
 ## Setup (page 4 & 5)
-Follow these instructions if you are starting a new campaign. If this is your first campaign, we recommend using the quick start guide first. If you are setting up the game to continue a campaign, turn to pg. 32.
-
 1. Place the atlas in the center of the table and turn to pg. 2. Place the ship in the sea region that contains the number 2 location.
 
 2. Place the ship board near the atlas. Place the correct side face up depending on number of players, 1-2 or 3-4, listed in the top right corner of the ship board. Place the ship action token on the ship board. Place 3 coins and 1 grain on the ship board. You start the game with these resources.
@@ -13,9 +11,9 @@ Follow these instructions if you are starting a new campaign. If this is your fi
 
 6. Separate the event cards by type (mild, perilous, deadly). Shuffle each pile separately. Draw 6 deadly cards and place them face down in a new deck. Draw 6 perilous cards and place them face down on top of the deadly. Draw 6 mild cards and place them face down on top of the perilous. You should now have a deck of 18 event cards. Place this deck face down on its slot on the ship board. Place the unused cards in the box.
 
-7. Place the starting adventure cards near the ship board. These cards are: Gloria, Soup, Gear, and Flapjacks (you can find these cards in the market deck). Place the magnetic card box that contains adventure and quest cards nearby. <b>IMPORTANT: Do not change the order of cards in the quest card and adventure card decks, and do not look through the cards unless instructed.</b>
+7. Place the starting adventure cards near the ship board. These cards are: Gloria, Soup, Gear, and Flapjacks (you can find these cards in the market deck). Place the magnetic card box that contains adventure and quest cards nearby. IMPORTANT: Do not change the order of cards in the quest card and adventure card decks, and do not look through the cards unless instructed.
 
-8. Place the deck of enemy cards near the board, face down. <b>IMPORTANT: Do not change the order of cards in this deck and do not look through this deck unless instructed.</b>
+8. Place the deck of enemy cards near the board, face down. IMPORTANT: Do not change the order of cards in this deck and do not look through this deck unless instructed.
 
 9. Place the storybook near the board.
 
@@ -91,24 +89,24 @@ When this card is equipped, it gives the crew member the "Triage" ability. It co
 
 > The visual representation of the "Triage" ability is in the middle at the bottom of the card.
 
-<b>Secret:</b> Players must keep their abilities cards in hand secret until they are played. They may not show them or give them to other players.
+Secret: Players must keep their abilities cards in hand secret until they are played. They may not show them or give them to other players.
 
-<b>Hand Limit:</b> Each player has a hand limit of 3 ability cards. If after drawing new Ability Cards your hand size has exceeded the limit, you must immediately discard down to 3 cards. You may select the card(s) to discard.
+Hand Limit: Each player has a hand limit of 3 ability cards. If after drawing new Ability Cards your hand size has exceeded the limit, you must immediately discard down to 3 cards. You may select the card(s) to discard.
 
 ### Game Concepts And Terms (page 8)
 
 #### Active Player (page 8)
 
-When it is your turn, you are the <b>active player.</b>
+When it is your turn, you are the active player.
 
 #### Damage (page 8)
 
-Damage is physical and mental injury to a crew member or an enemy, represented by <b>damage tokens</b> (the blood drop). If the storybook or a card says <b>"-1 health,"</b> it means take 1 damage. When a crew member takes damage, place the indicated amount of damage tokens on the <b>crew board.</b>
+Damage is physical and mental injury to a crew member or an enemy, represented by damage tokens(the blood drop). If the storybook or a card says "-1 health," it means take 1 damage. When a crew member takes damage, place the indicated amount of damage tokens on the crew board.
 
-When you are instructed to <b>"Restore health"</b> to a crew member, remove the specified number of damage tokens.
+When you are instructed to "Restore health" to a crew member, remove the specified number of damage tokens.
 
 #### Health (page 8)
-Health is the amount of damage a crew member can take and still function normally. If a crew member has damage equal to their health (known as having 0 health), they can no longer attack,<b> participate in challenges, or activate any of their crew board abilities or ability cards</b> until they regain at least 1 health. Thematically, at 0 health they are nearly unconscious, able to speak and move, but badly hurt.
+Health is the amount of damage a crew member can take and still function normally. If a crew member has damage equal to their health (known as having 0 health), they can no longer attack, participate in challenges, or activate any of their crew board abilities or ability cards until they regain at least 1 health. Thematically, at 0 health they are nearly unconscious, able to speak and move, but badly hurt.
 
 If all crew members have 0 health, you are defeated (see "Defeat" on pg. 28).
 
@@ -116,7 +114,7 @@ A crew member's damage cannot exceed their health—any excess must be placed on
 
 #### Command (page 8)
 
-Command represents your crew's readiness and ability to work together. You must pay command to activate <b>crew abilities and adventure cards, to equip ability cards</b> to crew members, and to help other players on their turn by using your crew members.
+Command represents your crew's readiness and ability to work together. You must pay command to activate crew abilities and adventure cards, to equip ability cards to crew members, and to help other players on their turn by using your crew members.
 
 #### Draw Fate (page 8)
 
@@ -124,17 +122,17 @@ Draw a card from the ability card deck and check the number in the top left corn
 
 #### Challenge (page 8)
 
-You may be faced with challenges you must overcome, usually when reading from the storybook but also when you draw event cards. It involves <b>selecting crew members to participate and drawing fate</b> in an effort to reach or exceed a specified <b>challenge number</b> (see pg. 19).
+You may be faced with challenges you must overcome, usually when reading from the storybook but also when you draw event cards. It involves selecting crew members to participate and drawing fate in an effort to reach or exceed a specified challenge number (see pg. 19).
 
 #### Fatigue (page 8)
 
-When crew members participate in challenges, they gain fatigue, represented by a fatigue token. Each crew member can hold up to <b>2 fatigue tokens.</b>
+When crew members participate in challenges, they gain fatigue, represented by a fatigue token. Each crew member can hold up to 2 fatigue tokens.
 
 Each fatigue token is double-sided. If a crew member has only 1 token, place the blank side face up. If a crew member has a 2nd fatigue token, it should have the "-1 damage" side face up. This causes the crew member to deal -1 damage in combat.
 
-A crew member with 2 fatigue tokens cannot participate in <b>challenges (pg. 19), but can continue to participate in </b>combat (pg. 21).
+A crew member with 2 fatigue tokens cannot participate in challenges (pg. 19), but can continue to participate in combat (pg. 21).
 
-You can remove fatigue mainly by <b>cooking recipes</b> or performing a <b>port action</b>.
+You can remove fatigue mainly by cooking recipes or performing a port action.
 
 #### Limited Components (page 8)
 
@@ -142,27 +140,27 @@ All components are limited, which means that if you run out, you cannot gain or 
 
 #### Region (page 9)
 
-A region of the sea on the <b>atlas</b>. Regions are separated by dotted lines, land, the spiral binding of the atlas, and the edge of the page. The ship cannot reside on or move through land, only sea regions.
+A region of the sea on the atlas. Regions are separated by dotted lines, land, the spiral binding of the atlas, and the edge of the page. The ship cannot reside on or move through land, only sea regions.
 
 #### Ship Damage (page 9)
 
 When instructed to take ship damage, draw 1 ability card per damage, then place a cube on the room(s) with a matching fate number. Each ship room can only take 2 damage and the hull can take 1 damage. If a room already has 2 damage, you may choose where to place the damage. If a room has 2 damage, it cannot be used during the ship action phase. If the ship ever has 11 damage cubes, you are defeated (see "Defeat" on pg. 28).
 
-<b>Repair</b> refers to removing ship damage. If you <b>"repair 2,"</b> you remove any 2 damage from the ship.
+Repair refers to removing ship damage. If you "repair 2," you remove any 2 damage from the ship.
 
 #### Skills (page 9)
 
 There are 5 types of crew skills in the game. Most crew members start with 2 to 4 skills.
 
-<b>Strength:</b> Used when anything requires physical effort or endurance.
+Strength: Used when anything requires physical effort or endurance.
 
-<b>Perception:</b> Used to search, use hand-eye coordination, detect, or use senses. Also used to hide and sneak.
+Perception: Used to search, use hand-eye coordination, detect, or use senses. Also used to hide and sneak.
 
-<b>Savvy:</b> Used when anything requires knowledge, either from study or experience.
+Savvy: Used when anything requires knowledge, either from study or experience.
 
-<b>Craft:</b> Used when something must be built, repaired, taken apart, maintained, or refined. Also used to run the ship's engines and to travel.
+Craft: Used when something must be built, repaired, taken apart, maintained, or refined. Also used to run the ship's engines and to travel.
 
-<b>Cunning:</b> Used when you must convince, lead, speak, deceive, devise, or plot.
+Cunning: Used when you must convince, lead, speak, deceive, devise, or plot.
 
 #### Supply (page 9)
 
@@ -170,7 +168,7 @@ When the game refers to "the supply," it means the components that you currently
 
 #### Status (page 9)
 
-There are five types of status tokens in the game. When a crew member gains a status, place the appropriate token on their crew board. Each crew member can have multiple status tokens, <b>but may not have more than one copy of each status</b>. Crew members gain status tokens in stories and combat. Crew members can remove status tokens through character and adventure card abilities.
+There are five types of status tokens in the game. When a crew member gains a status, place the appropriate token on their crew board. Each crew member can have multiple status tokens, but may not have more than one copy of each status. Crew members gain status tokens in stories and combat. Crew members can remove status tokens through character and adventure card abilities.
 
 - Venom: The crew member takes 1 damage at the start of each player's turn.
 
@@ -184,9 +182,9 @@ There are five types of status tokens in the game. When a crew member gains a st
 
 #### Journey Log (page 9)
 
-When you start a new campaign, write your name and date on a new journey log sheet. You use this sheet to track certain information when you save your game during the campaign (and also as a memento of your journey). You can also keep notes on the world map to help you remember important information. <b>You can use world map notes from previous campaigns when you play a new campaign.</b>
+When you start a new campaign, write your name and date on a new journey log sheet. You use this sheet to track certain information when you save your game during the campaign (and also as a memento of your journey). You can also keep notes on the world map to help you remember important information. You can use world map notes from previous campaigns when you play a new campaign.
 
-#### World Map and <i>The Tides of Ruin</i> Expansion (page 9)
+#### World Map and The Tides of Ruin Expansion (page 9)
 
 In Sleeping Gods, the atlas includes 9 maps to explore, but if you examine the map on your journey log, you can see that this is only part of the game world. These extra maps and locations are included in the Tides of Ruin expansion.
 
@@ -196,19 +194,19 @@ This is a summary of the steps you take on your turn. The steps are explained in
 
 Starting with the first player, players take turns in clockwise order. Follow these steps on your turn:
 
-1. Ship Action: Choose a <b>ship action</b>. Move the <b>ship action figure</b> to one of the five ship rooms and apply the effect. You must move the ship action figure to a new room each turn (you cannot repeat the same room two turns in a row). (See pg. 10-11.)
+1. Ship Action: Choose a ship action. Move the ship action figure to one of the five ship rooms and apply the effect. You must move the ship action figure to a new room each turn (you cannot repeat the same room two turns in a row). (See pg. 10-11.)
 
-2. Event: Draw an <b>event card</b> and read the effect. Events may present a choice, a challenge, consequence, or other effect. (For challenges, see pg. 19.) Resolve the event card before continuing your turn. (For event card rules, see pg. 12.)
+2. Event: Draw an event card and read the effect. Events may present a choice, a challenge, consequence, or other effect. (For challenges, see pg. 19.) Resolve the event card before continuing your turn. (For event card rules, see pg. 12.)
 
-3. Two Actions: Perform <b>two actions</b>. Available actions are listed on the bottom of the ship board. You may perform the same action twice in one turn. These actions are explained starting on pg. 13.
+3. Two Actions: Perform two actions. Available actions are listed on the bottom of the ship board. You may perform the same action twice in one turn. These actions are explained starting on pg. 13.
 
 4. End of Turn: After you have performed your two actions, pass the captain token to the player on the left. That player now starts their turn.
 
-### Player Turn (page 10)
+## Player Turn (page 10)
 
-#### 1. Ship Action (page 10)
+### 1. Ship Action (page 10)
 
-<b>Move the ship action figure to one of the five ship rooms and apply the effect.</b>
+Move the ship action figure to one of the five ship rooms and apply the effect.
 
 - The five ship rooms include: Bridge, Galley, Deck, Quarters, & Sick Bay. (The Hull has no action.)
 
@@ -218,7 +216,7 @@ Starting with the first player, players take turns in clockwise order. Follow th
 
 - If you cannot take an action because all rooms have 2 damage, move the ship action figure to one of the rooms, but take no ship action.
 
-<b>Ship room effects vary depending on the number of players in the game.</b> When a room shows two numbers over the command token symbol, check the player count symbol at the top right corner of the ship board. This tells you what amount of command to take (depending on the number of players).
+Ship room effects vary depending on the number of players in the game. When a room shows two numbers over the command token symbol, check the player count symbol at the top right corner of the ship board. This tells you what amount of command to take (depending on the number of players).
 
 When playing with 3-4 players, use the side of the ship board that has this symbol.
 
@@ -238,7 +236,7 @@ Quarters: Draw 1 ability card and gain the specified number of command tokens. A
 
 Sick Bay: Draw 1 ability card and gain the specified number of command tokens. Also, restore 1 health to any crew member.
 
-#### 2. Event (page 12)
+### 2. Event (page 12)
 
 Draw the top card of the event deck and read it aloud. Apply the effect or complete the challenge.
 
@@ -250,15 +248,15 @@ Draw the top card of the event deck and read it aloud. Apply the effect or compl
 
 Over the course of each campaign, you will go through the event deck 3 times. Each time you reach the end of the event deck, follow these instructions:
 
-##### First Time (page 12)
+#### First Time (page 12)
 
 After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph 1 in the storybook instead of drawing an event card.
 
-##### Second Time (page 12)
+#### Second Time (page 12)
 
 After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph 1.2 instead of drawing an event card.
 
-##### Third Time (page 12)
+#### Third Time (page 12)
 
 After you have drawn all cards from the event deck, finish the current player's turn. On the next turn, read paragraph F1 instead of drawing an event card.
 
@@ -271,7 +269,7 @@ When you draw this event, place it face up near the ship board. The “turn end�
 > Biting Starfish:
 When you draw this event, choose to take 1 ship damage or attempt a STRENGTH 6 challenge.
 
-#### 3. Two Actions (page 13)
+### 3. Two Actions (page 13)
 
 Perform 2 of the following actions: travel, explore, market, or port.
 
@@ -279,7 +277,7 @@ Perform 2 of the following actions: travel, explore, market, or port.
 
 - You may choose to skip an action to gain 1 command. You may do this for one or both actions.
 
-##### Action: Travel (page 13)
+#### Action: Travel (page 13)
 
 This action allows you to move the ship to a new region. Regions are separated by dotted lines, land, the spiral binding of the atlas, and the edge of the page. Whenever you travel, you perform a CRAFT challenge:
 
@@ -299,22 +297,22 @@ Edge of the Map: If you reach the edge of the map and want to keep going in the 
 
 Designer's Note on Travel: The Manticore has enough coal in its stores to last you the entire trip, so you do not need to worry about fuel.
 
-<i>Travel Example 1</i> (Page 14)<br>
+Travel Example 1 (Page 14)<br>
 Zoey moves the ship to a region with a hazard of ghostly fog. She must attempt a challenge of CUNNING 5. She places a fatigue token on Captain Odessa to add her cunning. She draws a fate of 1. Captain Odessa has 1 cunning, so 1+1=2, a failure (she needed 5 or more). Zoey takes 1 low morale token and places it on Captain Odessa.
 
 > In travel example 1, you'll find the ship located in the upper right corner with a red arrow indicating the direction to the left, leading toward the ghostly fog.
 
-<i>Travel Example 2</i> (Page 14)<br>
+Travel Example 2 (Page 14)<br>
 Zoey moves the ship to a region with a hazard of rocky shores. She attempts a SAVVY 5 challenge. She chooses Gregory and Kannan to participate, giving her 2 savvy. She draws 2, so the total is 2+2=4, so she must take 1 ship damage. If she had obtained at least 5, she would have ignored the ship damage.
 
 > In travel example 2, the ship is positioned in the lower right corner, while a prominent red arrow directs attention towards the perilous rocky shores.
 
-<i>Travel Example 3</i> (Page 14)<br>
+Travel Example 3 (Page 14)<br>
 Zoey wants to travel to a new map. She decides to move across the western edge of the current map. This leads to pg. 13 (as indicated by the blue arrow), so she turns to pg. 13. She must enter on the opposite side of this new map, so she starts on a region bordering the eastern edge. She can choose to start on either region, and she chooses the northern region.
 
 > In Travel Example 3, the ship is located on page 3, with a directional arrow pointing towards the northern edge of page 13.
 
-##### Action: Explore (page 15)<br>
+#### Action: Explore (page 15)<br>
 
 Explore one of the locations with a red circle outline on the region where the ship is located. When you explore, you make choices, complete challenges, and/or participate in combat.
 
@@ -330,7 +328,7 @@ Read the first box of text in the story (read aloud unless you are playing solo)
 
 NOTE: Do not read ahead or turn to any further paragraphs until you have made your choice/ completed your challenge. You are not meant to know what comes in a future paragraph before you make your choice.
 
-##### Story Example (page 15)
+#### Story Example (page 15)
 
 A
 
@@ -342,7 +340,7 @@ A. Cut the rope bindings on some nearby rocks. CUNNING 5 Fail: -3 health (Turn t
 
 B. Wriggle free of the rope bindings. STRENGTH 6 Fail: -3 health (Turn to A1)
 
-##### Action: Visit a Market Location (page 15)
+#### Action: Visit a Market Location (page 15)
 
 The ship must be in the same region as a market location.
 
@@ -350,7 +348,7 @@ Draw 7 cards from the market deck (market cards are adventure cards that you can
 
 Exception: If you purchase a weapon, equip it to one of your crew. Each crew member may equip any number of weapons.
 
-##### Action: Visit a Port (page 16)
+#### Action: Visit a Port (page 16)
 
 The ship must be in the same region as a port. You may then perform any or all of the following actions once. (Port actions are listed on the port board.)
 
@@ -388,9 +386,9 @@ Play an ability card from your hand to one of your crew members. This is known a
 
 - Each equipped card increases the crew member's skill number by 1 in the type shown on the card.
 
-- Some equipped cards also give the crew member (or player that controls that crew member) an ability. <b>Most of these abilities do not require you to spend command to use them once they are equipped.</b>
+- Some equipped cards also give the crew member (or player that controls that crew member) an ability. Most of these abilities do not require you to spend command to use them once they are equipped.
 
-- <b>You may not equip an ability card in the middle of combat or in the middle of a challenge.</b>
+- You may not equip an ability card in the middle of combat or in the middle of a challenge.
 
 Command Tokens
 > Command tokens look like blue hexagons.
@@ -402,7 +400,8 @@ Pay 2 command to equip this ability card from your hand to Laurent.
 
 You may pay command to activate one of your crew member's abilities. Place the required command on their crew board to indicate that they have used an ability, then gain the effects. You may not use another ability on this crew member until all command tokens have been removed from their crew board. (See pg. 34 for ability clarifications.)
 
-Activate Adventure Cards You may pay command to activate an adventure card ability. Place the required command on the adventure card to indicate you have used its ability, then gain the effects. You may not use this ability again until all command tokens have been removed from this adventure card. All players share ownership of adventure cards. ANY player can use adventure cards you own at any time, even to help another player in a challenge or combat.
+### Activate Adventure Cards
+You may pay command to activate an adventure card ability. Place the required command on the adventure card to indicate you have used its ability, then gain the effects. You may not use this ability again until all command tokens have been removed from this adventure card. All players share ownership of adventure cards. ANY player can use adventure cards you own at any time, even to help another player in a challenge or combat.
 
 - While in combat, you cannot cook recipes or activate adventure cards that allow you to move the ship.
 
@@ -482,13 +481,13 @@ After applying the consequences for failing, if you were not instructed to turn 
 
 Designer's Note: Failure doesn't always mean that you aren't able to complete your task. Occasionally it does, but often it just means that you suffer injury or negative consequences in your effort to complete the task.
 
-#### Failure Example (page 20)
+### Failure Example (page 20)
 
 In the choice below, Tom achieves 7 skill, so he must apply the listed failure effects. He takes 7 damage. He also must place a venom token on one of his crew members. He reads the failure description and then turns to 54.6, continuing as normal.
 
 A. Search for their trail and follow it into the desert. PERCEPTION 10 Fail: -7 health & gain 1 venom. (The crew runs into and steps on a pack of sand-colored cobras.) (Turn to 54.6)
 
-#### Challenge Example (page 20)
+### Challenge Example (page 20)
 
 Cid must complete this challenge:
 
@@ -502,7 +501,7 @@ Cid succeeds, so he can ignore the consequences of -8 health. He continues readi
 
 ## Combat (page 21)
 
-#### Combat Setup (page 21)
+### Combat Setup (page 21)
 
 When a story section ends with the word COMBAT, followed by a list of numbers, you must start a combat and defeat enemies before you can continue your story. Follow these steps to set up combat.
 
@@ -516,7 +515,7 @@ When a story section ends with the word COMBAT, followed by a list of numbers, y
 
 - Place each crew member's synergy token on their crew board.
 
-#### Combat Rounds (page 21)
+### Combat Rounds (page 21)
 
 Start the first combat round and continue with combat rounds until either all enemy cards are defeated or all crew members have 0 health. A combat round consists of the following:
 
@@ -730,7 +729,7 @@ Active Quest Symbol: This means that this quest is an active quest and you can t
 
 Quest Description
 
-> The Quest Description appears in the right center of the card.
+> The Quest Description appears in the right center of the card, beside The active Quest symbol.
 
 Keyword
 
@@ -769,7 +768,7 @@ You must find as many totems as possible. The number of totems you find will det
 
 Command cost to activate the card. Place the command on the card when you use it.
 
-> The Command cost of the adventure card is located in the center of the card.
+> The Command cost of the adventure card is of hexagonal shape located in the center of the card.
 
 Card Type And Adventure Card Number.
 
@@ -877,7 +876,7 @@ Follow these steps to remove a player:
 
 NOTE: Remember to turn the ship board to the correct side depending on the number of players in the game.
 
-### Resetting THe Game for a new Campaign (page 33)
+### Resetting The Game For A New Campaign (page 33)
 
 To reset the game for a new campaign, follow these steps:
 
@@ -948,15 +947,23 @@ Discard Ability: This activates at the end of each combat round. Discard 1 equip
 
 Venom: This activates at the end of each combat round. A crew member gains 1 venom status token (the active player chooses who).
 
+> Venom is a green drop symbol.
+
 First Strike: This ability is active until disabled. Any time a crew member attacks this enemy, the enemy counterattacks first.
 
 Frighten: This activates at the end of each combat round. A crew member gains 1 frightened status token (the active player chooses who).
+
+> Frighten is represented by the cock symbol.
 
 Lose 1 Resource: This activates at the end of each combat round. Return 1 resource to the supply.
 
 Madness: This activates at the end of each combat round. A crew member gains 1 madness status token (the active player chooses who).
 
+> Madness is represented by a swirl-like symbol.
+
 Low Morale: This activates at the end of each combat round. A crew member gains 1 low morale token (the active player chooses who).
+
+> Represented by the thumb-down sign.
 
 Regen 1/3: This activates at the end of each combat round. Remove 1 or more damage token(s) from this enemy card (the active player chooses who).
 
@@ -965,6 +972,8 @@ Disarm: This activates at the end of each combat round. Remove 1 equipped weapon
 Resist 1: This enemy blocks 1 damage each time a crew member deals damage to it, until this ability is disabled.
 
 Weaken: This activates at the end of each combat round. A crew member gains 1 weakened status token (the active player chooses who).
+
+> The weaken is represented by a skull.
 
 1 Ship Damage: This activates at the end of each combat round. The ship takes 1 damage. Draw fate to determine which rooms are hit.
 
@@ -1086,7 +1095,7 @@ Players cannot give each other ability cards in hand, but there are some excepti
 
 - Remove 1 Frightened
 
-> The "Remove 1 Frightened" symbol resembles a chicken.
+> The "Remove 1 Frightened" symbol is a cock.
 
 - Remove 1 Madness
 
@@ -1190,8 +1199,8 @@ Players cannot give each other ability cards in hand, but there are some excepti
 
 - Perilous Event
 
-> The Dangerous Event symbol looks like big waves.
+> The Perilous Event symbol looks like big waves.
 
 - Deadly Event
 
-> The Deadly Event symbol looks like an electrical storm.
+> The Deadly Event symbol looks like a lightning storm.
